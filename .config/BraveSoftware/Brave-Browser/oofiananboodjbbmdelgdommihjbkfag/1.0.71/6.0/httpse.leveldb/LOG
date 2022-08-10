@@ -1,0 +1,7 @@
+2021/12/01-18:20:25.773 dc4 Recovering log #3
+2021/12/01-18:20:26.093 dc4 Level-0 table #5: started
+2021/12/01-18:20:26.226 dc4 Level-0 table #5: 2784294 bytes OK
+2021/12/01-18:20:26.233 dc4 Recovering log #7
+2021/12/01-18:20:26.248 dc4 Delete type=0 #7
+2021/12/01-18:20:26.248 dc4 Delete type=3 #2
+2021/12/01-18:20:26.248 dc4 Delete type=0 #3

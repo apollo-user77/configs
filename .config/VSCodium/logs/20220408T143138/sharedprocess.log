@@ -1,0 +1,30 @@
+[2022-04-08 14:31:41.946] [sharedprocess] [info] Deleted from disk asvetliakov.vscode-neovim /home/justin/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.83
+[2022-04-08 14:31:42.281] [sharedprocess] [info] Starting worker process with pid 5286 (type: fileWatcher, window: 1).
+[2022-04-08 14:31:45.067] [sharedprocess] [info] Getting Manifest... ms-vscode.js-debug-companion
+[2022-04-08 14:31:45.069] [sharedprocess] [info] Getting Manifest... ms-vscode.references-view
+[2022-04-08 14:31:45.078] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-04-08 14:31:45.078] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-04-08 14:31:46.272] [sharedprocess] [info] Installing extension: ms-vscode.references-view
+[2022-04-08 14:31:46.277] [sharedprocess] [info] Installing extension: ms-vscode.js-debug-companion
+[2022-04-08 14:31:46.547] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-04-08 14:31:46.549] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-04-08 14:31:47.236] [sharedprocess] [info] Downloaded extension: ms-vscode.references-view /home/justin/.config/VSCodium/CachedExtensionVSIXs/ms-vscode.references-view-0.0.89
+[2022-04-08 14:31:47.323] [sharedprocess] [info] Extracted extension to /home/justin/.vscode-oss/extensions/.62945fac-2bd0-4195-84d3-0074608856cc: ms-vscode.references-view
+[2022-04-08 14:31:47.333] [sharedprocess] [info] Renamed to /home/justin/.vscode-oss/extensions/ms-vscode.references-view-0.0.89
+[2022-04-08 14:31:47.335] [sharedprocess] [info] Extracting completed. ms-vscode.references-view
+[2022-04-08 14:31:47.343] [sharedprocess] [info] Extension installed successfully: ms-vscode.references-view
+[2022-04-08 14:31:47.593] [sharedprocess] [info] Downloaded extension: ms-vscode.js-debug-companion /home/justin/.config/VSCodium/CachedExtensionVSIXs/ms-vscode.js-debug-companion-1.0.17
+[2022-04-08 14:31:47.609] [sharedprocess] [info] Extracted extension to /home/justin/.vscode-oss/extensions/.17ed50ce-4d65-4ed6-9857-5b5762eb8544: ms-vscode.js-debug-companion
+[2022-04-08 14:31:47.619] [sharedprocess] [info] Renamed to /home/justin/.vscode-oss/extensions/ms-vscode.js-debug-companion-1.0.17
+[2022-04-08 14:31:47.620] [sharedprocess] [info] Extracting completed. ms-vscode.js-debug-companion
+[2022-04-08 14:31:47.626] [sharedprocess] [info] Extension installed successfully: ms-vscode.js-debug-companion
+[2022-04-08 14:31:52.678] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/justin/.config/VSCodium/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.3.1000901801
+[2022-04-08 14:31:53.266] [sharedprocess] [info] Extracted extension to /home/justin/.vscode-oss/extensions/.618f2801-c0ff-4a57-99b2-b6bc7caf1f71: ms-toolsai.jupyter
+[2022-04-08 14:31:53.280] [sharedprocess] [info] Renamed to /home/justin/.vscode-oss/extensions/ms-toolsai.jupyter-2022.3.1000901801
+[2022-04-08 14:31:53.284] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-04-08 14:31:53.292] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-04-08 14:32:01.572] [sharedprocess] [info] Downloaded extension: ms-python.python /home/justin/.config/VSCodium/CachedExtensionVSIXs/ms-python.python-2022.2.1924087327
+[2022-04-08 14:32:03.705] [sharedprocess] [info] Extracted extension to /home/justin/.vscode-oss/extensions/.6dcbbe9d-3b77-4854-8680-6b450401dc77: ms-python.python
+[2022-04-08 14:32:03.729] [sharedprocess] [info] Renamed to /home/justin/.vscode-oss/extensions/ms-python.python-2022.2.1924087327
+[2022-04-08 14:32:03.732] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-04-08 14:32:03.740] [sharedprocess] [info] Extension installed successfully: ms-python.python

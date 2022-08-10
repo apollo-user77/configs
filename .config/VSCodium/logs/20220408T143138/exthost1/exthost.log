@@ -1,0 +1,16 @@
+[2022-04-08 14:31:41.992] [exthost] [info] Extension host with pid 5241 started
+[2022-04-08 14:31:41.992] [exthost] [info] Skipping acquiring lock for /home/justin/.config/VSCodium/User/workspaceStorage/ccad36c1c2896cbdf64b559d50e4c6c3.
+[2022-04-08 14:31:42.552] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-04-08 14:31:42.887] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-04-08 14:31:43.414] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-08 14:31:43.420] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-08 14:31:43.427] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-08 14:31:43.455] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-04-08 14:31:43.810] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-08 14:31:43.898] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-08 14:31:44.281] [exthost] [info] Eager extensions activated
+[2022-04-08 14:31:44.311] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-08 14:31:44.344] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-08 14:32:22.906] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-08 14:32:22.929] [exthost] [error] Error: ENOENT: no such file or directory, open '/home/justin/.config/VSCodium/User/globalStorage/vscodevim.vim/.registers'
+[2022-04-08 14:32:22.929] [exthost] [info] Extension host with pid 5241 exiting with code 0

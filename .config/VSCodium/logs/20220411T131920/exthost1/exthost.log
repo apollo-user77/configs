@@ -1,0 +1,19 @@
+[2022-04-11 13:19:23.700] [exthost] [info] Extension host with pid 2506 started
+[2022-04-11 13:19:23.700] [exthost] [info] Skipping acquiring lock for /home/justin/.config/VSCodium/User/workspaceStorage/ccad36c1c2896cbdf64b559d50e4c6c3.
+[2022-04-11 13:19:23.913] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-04-11 13:19:24.285] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-04-11 13:19:24.814] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-11 13:19:24.818] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-11 13:19:24.822] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-11 13:19:24.840] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-04-11 13:19:25.168] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-11 13:19:25.236] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-11 13:19:25.656] [exthost] [info] Eager extensions activated
+[2022-04-11 13:19:25.701] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-11 13:19:25.725] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-11 13:21:53.632] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-11 13:21:53.653] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-11 13:21:53.752] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-11 13:22:31.152] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-11 13:22:31.199] [exthost] [error] Error: ENOENT: no such file or directory, open '/home/justin/.config/VSCodium/User/globalStorage/vscodevim.vim/.registers'
+[2022-04-11 13:22:31.199] [exthost] [info] Extension host with pid 2506 exiting with code 0

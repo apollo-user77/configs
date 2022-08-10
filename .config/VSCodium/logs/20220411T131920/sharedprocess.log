@@ -1,0 +1,10 @@
+[2022-04-11 13:19:24.053] [sharedprocess] [info] Starting worker process with pid 2551 (type: fileWatcher, window: 1).
+[2022-04-11 13:19:24.233] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/justin/.vscode-oss/extensions/ms-toolsai.jupyter-2022.1.1301856528
+[2022-04-11 13:19:24.514] [sharedprocess] [info] Deleted from disk ms-python.python /home/justin/.vscode-oss/extensions/ms-python.python-2022.0.1814523869
+[2022-04-11 13:21:50.441] [sharedprocess] [info] Getting Manifest... shubham-saudolla.lilac
+[2022-04-11 13:21:50.681] [sharedprocess] [info] Installing extension: shubham-saudolla.lilac
+[2022-04-11 13:21:51.479] [sharedprocess] [info] Downloaded extension: shubham-saudolla.lilac /home/justin/.config/VSCodium/CachedExtensionVSIXs/shubham-saudolla.lilac-1.2.7
+[2022-04-11 13:21:51.559] [sharedprocess] [info] Extracted extension to /home/justin/.vscode-oss/extensions/.5d12626d-c931-4c8c-81ca-63d8b140591f: shubham-saudolla.lilac
+[2022-04-11 13:21:51.568] [sharedprocess] [info] Renamed to /home/justin/.vscode-oss/extensions/shubham-saudolla.lilac-1.2.7
+[2022-04-11 13:21:51.569] [sharedprocess] [info] Extracting completed. shubham-saudolla.lilac
+[2022-04-11 13:21:51.570] [sharedprocess] [info] Extension installed successfully: shubham-saudolla.lilac

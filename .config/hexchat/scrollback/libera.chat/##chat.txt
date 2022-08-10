@@ -1,0 +1,439 @@
+T 1631590179 19*	Now talking on 22##chat
+T 1631590179 22*	Topic for 22##chat is: Welcome to ##chat, a social and offtopic channel for sensible conversations | THIS IS A POLITICS-FREE ZONE! You have been warned. | Rules: https://pastebin.com/raw/ntTcx2xb | We reserve the right to remove annoying people | Free Speech: https://xkcd.com/1357/ | In case of PM spam, '/mode your_nick_here +R'
+T 1631590179 22*	Topic for 22##chat set by 26MetaNova!zero-one@znc/supporter/metanova (24Fri Jun  4 18:39:08 2021)
+T 1631590179 -18ChanServ-	[##chat] Welcome to ##chat! By joining this channel you agree to having read and understood the channel rules: https://pastebin.com/raw/ntTcx2xb | Ops can be found at ##chat-ops | Enjoy your stay!
+T 1631590179 22*	Channel 22##chat url: 24https://pastebin.com/raw/ntTcx2xb
+T 1631590323 24*	sebbu has quit (Ping timeout: 252 seconds)
+T 1631590346 23*	sebbu (~sebbu@user/sebbu23) has joined
+T 1631590399 23*	ferdna (~ferdna@user/ferdna23) has joined
+T 1631590449 23*	DevInTheMtn (~DevInTheM@216-14-233-226.static.blackfoot.net23) has joined
+T 1631590687 23*	kirk781 (~doors_1@2402:3a80:1f8c:46c6:2358:593:8e4:824a23) has joined
+T 1631590910 24*	DevInTheMtn has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1631591254 18<rukus18>	It's 05:46, woke up at 1am, thought I'd do some work untill feel like sleeping, think I'm going to just have some coffee and go into the office a bit later, just wondering how wise that is.
+T 1631591550 18<yukiup18>	sounds logical
+T 1631591646 18<yukiup18>	still no rain in the forecast :(
+T 1631591722 18<yukiup18>	+w 95054
+T 1631591723 18<chat18>	Santa Clara, California, United States of America :: Clear 70.2F/21.2C (Humidity: 39%) | Feels like: 70.2F/21.2C | Wind: 3.13mph/5.0kph NNW | Wind gust: 6.47mph/10.4kph | Monday: Clear throughout the day. High 87.7F/31.0C. Low 56.3F/13.5C. | Tuesday: Clear throughout the day. High 85.7F/29.8C. Low 55.5F/13.1C.
+T 1631591732 23*	baw (~baw@user/baw23) has joined
+T 1631591740 18<yukiup18>	70f at night...
+T 1631591752 24*	baw has quit (Client Quit)
+T 1631591799 18<yukiup18>	its always 70
+T 1631592033 24*	woink has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+T 1631592094 18<CobbleStone918>	So if I was a god of weather you all would lather me in requests
+T 1631592110 18<CobbleStone918>	now I understand Gilfoyle
+T 1631592164 18<CobbleStone918>	eggselent writing
+T 1631592236 24*	yukiup has quit (Quit: My MacBook Air has gone to sleep. ZZZzzz…)
+T 1631592327 24*	JBrittSteele has quit (Ping timeout: 260 seconds)
+T 1631592344 24*	DunceCotus has quit (Ping timeout: 268 seconds)
+T 1631592432 FiSHLiM plugin unloaded
+T 1631636583 19*	Now talking on 22##chat
+T 1631636583 22*	Topic for 22##chat is: Welcome to ##chat, a social and offtopic channel for sensible conversations | THIS IS A POLITICS-FREE ZONE! You have been warned. | Rules: https://pastebin.com/raw/ntTcx2xb | We reserve the right to remove annoying people | Free Speech: https://xkcd.com/1357/ | In case of PM spam, '/mode your_nick_here +R'
+T 1631636583 22*	Topic for 22##chat set by 26MetaNova!zero-one@znc/supporter/metanova (24Fri Jun  4 18:39:08 2021)
+T 1631636583 -18ChanServ-	[##chat] Welcome to ##chat! By joining this channel you agree to having read and understood the channel rules: https://pastebin.com/raw/ntTcx2xb | Ops can be found at ##chat-ops | Enjoy your stay!
+T 1631636583 22*	Channel 22##chat url: 24https://pastebin.com/raw/ntTcx2xb
+T 1631636596 23*	tilikum (~tilikum@user/tilikum23) has joined
+T 1631636601 18<knolle18>	i'm talking about the pogthings
+T 1631636618 18<knolle18>	i never understood what they mean
+T 1631636628 18<yuken18>	jessicara, being against degeneracy in public is seen as anti-LGBT because... projecting, probably.
+T 1631636682 24*	launchd has quit (Excess Flood)
+T 1631636695 23*	launchd (examknow@bitbot/launchd23) has joined
+T 1631636697 18<yuken18>	People who are complete degenerates, and want to express it in public, thinking you're against their sexuality because you're against that.
+T 1631636727 23*	bynx (~bynx@fw.rry.vaskywire.net23) has joined
+T 1631636744 24*	RickSanchez has quit (Remote host closed the connection)
+T 1631636792 24*	rsx has quit (Quit: rsx)
+T 1631636922 18<yuken18>	FloridaMan, some moron who works for the Department of Veteran Affairs leaked medical records of a guy in his 70s because "tax dollars paid for his dick implant". Can't wait to see the result.
+T 1631636930 18<yuken18>	Minimum HIPPA violation fine is $50,000.
+T 1631636931 23*	Andalu30 (~andalu30@85.137.21.37.dyn.user.ono.com23) has joined
+T 1631636969 18<jessicara18>	lousy reason to leak medical records
+T 1631637000 23*	RickSanchez (~RickSanch@2607:fb90:8901:320d:14da:f539:ec8d:64ea23) has joined
+T 1631637009 18<yuken18>	jessicara, it's a serious thing in the US, to leak basically _any_ private medical information, or to even say stuff regarding it within earshot of the public without permission of the individual.
+T 1631637018 23*	scaleww (~scaleww@77-41-20-31.ftth.glasoperator.nl23) has joined
+T 1631637032 18<yuken18>	Basically, entire career in public health ended.
+T 1631637051 24*	bynx has quit (Quit: WeeChat 3.0)
+T 1631637053 23*	hubble (~hubble@user/hubble23) has joined
+T 1631637081 24*	tsapien has quit (Quit: Konversation terminated!)
+T 1631637102 18<jessicara18>	this week i have been annoyed, seems like mail isn't functioning..
+T 1631637110 18<jessicara18>	like irl mail
+T 1631637176 24*	Orodruin has quit (Remote host closed the connection)
+T 1631637218 24*	Neopolitan has quit (Remote host closed the connection)
+T 1631637290 23*	bynx (~bynx@fw.rry.vaskywire.net23) has joined
+T 1631637338 24*	hubble has quit (Client Quit)
+T 1631637582 24*	keir has quit (Quit: keir)
+T 1631637665 18<yuken18>	blkshp, what should I carry in terms of emergency medical supplies on a daily basis? I'm thinking some ibuprofen & acetaminophen, calcium tablets & anti-diarrheals, tourniquet, wound packing gauze, and either a sewing kit or superglue.
+T 1631637672 24*	blabber has quit (Remote host closed the connection)
+T 1631637687 18<yuken18>	Basically everything you'd reasonably need if you got into a car crash, had a bad headache or joint ache, or ate some bad food.
+T 1631637706 23*	blabber (~blabber@user/blabber23) has joined
+T 1631637730 18<blkshp18>	An ambulance.
+T 1631637731 18<blkshp18>	xD
+T 1631637733 18<jessicara18>	lol
+T 1631637747 18<jessicara18>	yeah healthcare these days really takes a team effort
+T 1631637749 18<yuken18>	blkshp, the entire point of carrying any of this stuff is that emergency services can be 5 to 50 minutes away.
+T 1631637769 18<blkshp18>	I have a small Tesco first aid kit and some ibuprofen and codeine.
+T 1631637776 18<yuken18>	Wish I could get codeine.
+T 1631637797 24*	JBrittSteele has quit (Quit: qicr for android: faster and better)
+T 1631637816 23*	JBrittSteele (~jbrittste@2600:1011:b151:27aa:601c:987:b974:7f8123) has joined
+T 1631637836 18<blkshp18>	You can't get codeine alone. just mixed with ibuprofen and only 12.8mg with 200mg ibuprofene.
+T 1631637858 18<yuken18>	If it were legal/available I'd probably add some morphine there.
+T 1631637860 18<blkshp18>	or 500mb paracetamol (acitemondiekngfmdskwt or whatever you called it) and 8mb codeine
+T 1631637870 18<yuken18>	acetaminophen
+T 1631637883 18<blkshp18>	acemopohotominophine
+T 1631637884 24*	bynx has quit (Quit: WeeChat 3.0)
+T 1631637902 18<yuken18>	I'm going to be riding a dangerous vehicle, so having stuff to keep myself alive in case of crash is important.
+T 1631637909 18<yuken18>	assuming I'm still conscious.
+T 1631637912 24*	speckz has quit (Ping timeout: 260 seconds)
+T 1631637946 18<jessicara18>	think stopping the bleeding, getting help quickly and helmet would probably do the most
+T 1631637961 18<jessicara18>	probably helmet most of all
+T 1631638041 18<yuken18>	jessicara, ja. I'm trying to setup a day pack that has things I'd reasonably need in an emergency, like being stuck somewhere outside overnight, or car crash, or whatnot.
+T 1631638098 18<dtype18>	yuken: powerbars, laptop, generator, a collection of old school offline games...
+T 1631638108 18<yuken18>	lol
+T 1631638117 18<FloridaMan18>	dtype: going into therapy
+T 1631638138 18<FloridaMan18>	I've reached bottom
+T 1631638150 18<dtype18>	FloridaMan: detox?
+T 1631638161 18<FloridaMan18>	dtype: yes
+T 1631638177 18<dtype18>	(1) detox sucks, (2) do it
+T 1631638262 23*	bynx (~bynx@fw.rry.vaskywire.net23) has joined
+T 1631638333 18<yuken18>	https://www.youtube.com/watch?v=XieRLnynqhA
+T 1631638333 18<chat18>	^  ► YouTube :: Bleeding Control: Wound Packing :: Duration: 08:26 :: Views: 96,988 :: Uploader: PrepMedic :: Uploaded: 2018-09-28 :: 3,345 likes :: 32 dislikes :: 0 favorites :: 164 comments
+T 1631638389 18<yuken18>	This guy seems decent.
+T 1631638521 18<dumptrucktaco18>	man... I missed some good "non-political" discussion while grabbing some lunch
+T 1631638538 18*	herald inserts coffee into the chat room via IV
+T 1631638615 18<dumptrucktaco18>	Man.. I remember the good old days where you could get prescription cough medicine with codiene for kids
+T 1631638624 24*	tilikum has quit (Quit: My MacBook Air has gone to sleep. ZZZzzz…)
+T 1631638648 24*	28geoffo is now known as 18geoffo_
+T 1631638665 18<dumptrucktaco18>	When our oldest was a toddler, she had a really bad cough due to a cold and the pediatrician gave us a prescription for it.
+T 1631638671 18<dumptrucktaco18>	WORKED LIKE A CHAMP.
+T 1631638690 18<blkshp18>	codeine also good for the shits! lol
+T 1631638694 18<dumptrucktaco18>	No cough and she slept all night and was much better after being able to sleep
+T 1631638721 24*	Macuser has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1631638722 18<dumptrucktaco18>	then the FDA made some proclamation that it shouldn't be prescribed under the age of 10 or 12 or 14
+T 1631638758 18<dumptrucktaco18>	Child #2 comes along and we have a similar scenario when she's a similar age.
+T 1631638770 18<dumptrucktaco18>	Nothing else worked better.
+T 1631638779 18<blkshp18>	So you can't get it at all?
+T 1631638786 18<dumptrucktaco18>	Thanks dumbass parents who can't follow prescription directions
+T 1631638788 18<Vultyre18>	Good thing you hid the good stuff in the back of the shelf, right?
+T 1631638789 18<blkshp18>	not even mixed with painkillerS?
+T 1631638803 18<dumptrucktaco18>	well... we ran out since it was a small prescription
+T 1631638813 18<dumptrucktaco18>	I could as an adult
+T 1631638813 18<blkshp18>	i mean off prescription
+T 1631638815 18<dumptrucktaco18>	no
+T 1631638837 18<blkshp18>	So you can't get our basic painkillers and we can't get sleeping pills lol
+T 1631638855 18<blkshp18>	the fake hormone that begins with m
+T 1631638859 18<blkshp18>	i can't remember it
+T 1631638862 18<dumptrucktaco18>	We have too many morons who abuse drugs that our government is doing it for their own safety
+T 1631638890 18<dumptrucktaco18>	it's seems weird to me the differences in what's approved in US versus EU
+T 1631638902 18<dumptrucktaco18>	You'd think they'd be on the same page
+T 1631638902 18<blkshp18>	yeah it is strange.
+T 1631638905 18<Vultyre18>	it's mostly arbitrary to be honest
+T 1631638908 18<yuken18>	dumptrucktaco, yeah. I'd like to be able to just, get OTC codeine, it seems useful.
+T 1631638913 18<yuken18>	but too many people abused it so.
+T 1631638914 18<blkshp18>	Your eggs are illegal here, ours are there! lol
+T 1631638925 18<yuken18>	blkshp, melatonin
+T 1631638934 18<Vultyre18>	you can't buy melatonin in the UK?!
+T 1631638940 18<blkshp18>	As noted we can't just get codeine on it's own. And yes, melatonin, can't get it here and it's illegal to import
+T 1631638941 18*	Vultyre points and laughs
+T 1631638947 18<dumptrucktaco18>	I'd like to get the original Sudafed again instead of being treated like a meth-head at the pharmacy
+T 1631638953 18<dumptrucktaco18>	so odd
+T 1631638954 18<yuken18>	mmm another milkshake.
+T 1631638956 18<dumptrucktaco18>	lol
+T 1631638961 18<yuken18>	dumptrucktaco, you can still get plenty per month, but they have to ID you. It's annoying.
+T 1631638965 18<yuken18>	phenlyephine is _USELESS_
+T 1631638973 18<yuken18>	psuedoephedrine > penylephine
+T 1631638975 18<dumptrucktaco18>	You can only get it individually
+T 1631638989 18<dumptrucktaco18>	If you has two sick adults, then you have to come buy it seperately
+T 1631638999 18<dumptrucktaco18>	s/seperately/separately
+T 1631639000 18<chat18>	dumptrucktaco meant to say: If you has two sick adults, then you have to come buy it separately
+T 1631639014 18<dumptrucktaco18>	One time my wife and I both had the flu
+T 1631639025 18<Vultyre18>	Doesn't Australia have specially scented petrol because they have a sniffing problem?
+T 1631639029 18<dumptrucktaco18>	went to get Sudafed and they would only let me by one box
+T 1631639051 18<dumptrucktaco18>	which was basically 1 day of proper usage for the two of us.
+T 1631639062 18<dumptrucktaco18>	I had to come back the next day to by another on
+T 1631639065 18<dumptrucktaco18>	one
+T 1631639065 18<Vultyre18>	I can get a 24 count of sudafed around here
+T 1631639070 18<yuken18>	yar. there are daily, and monthly limits.
+T 1631639073 18<Vultyre18>	Which is I think 4 days for one person
+T 1631639077 24*	28craftxbox is now known as 18snep
+T 1631639085 23*	tilikum (~tilikum@user/tilikum23) has joined
+T 1631639102 18<dumptrucktaco18>	Annoying.
+T 1631639112 24*	jacklsw has quit (Read error: Connection reset by peer)
+T 1631639152 18<Vultyre18>	I worked in a pharmacy for a few years through college and the massive opioid RXs/users were way more annoying than pseudoephedrine users
+T 1631639164 18<dumptrucktaco18>	I'm sure there were loads of them.
+T 1631639169 24*	gitesh has quit (Quit: Connection closed for inactivity)
+T 1631639173 18<Vultyre18>	I had to fill in at a rural pharmacy location a few times and it was like 75% opioids...
+T 1631639176 18<dumptrucktaco18>	My wife worked as a pharmacy tech for a bit as well.
+T 1631639222 18<FloridaMan18>	I guess this is a weird message to have to send...
+T 1631639236 18<FloridaMan18>	I'm going into therapy to detox off alcohol
+T 1631639236 23*	ikex1 (ash@user/ikex23) has joined
+T 1631639243 18<Vultyre18>	And the pharmacists' job is to make sure it's "safe" for the patient to take relative to their other RXs
+T 1631639245 18<dumptrucktaco18>	FloridaMan++
+T 1631639247 18<Vultyre18>	So you just fill it
+T 1631639249 18<tinsoldier18>	FloridaMan: +337, -19 = 318. Informative (28) Funny (159) Wrong (5) Trolls (2)
+T 1631639254 18<FloridaMan18>	wanted to make sure you all knew
+T 1631639262 18<Vultyre18>	The MD is supposed to be the gatekeeper to opioids
+T 1631639263 18<FloridaMan18>	so it wasn't like "where the hell?"
+T 1631639267 23*	ingenhittade (~Nachlader@user/nachlader23) has joined
+T 1631639267 18<dumptrucktaco18>	Best of luck to you
+T 1631639280 18<bynx18>	Good luck!
+T 1631639282 18<Vultyre18>	good luck FloridaMan
+T 1631639298 24*	ikex has quit (Ping timeout: 268 seconds)
+T 1631639298 24*	28ikex1 is now known as 18ikex
+T 1631639301 18<yuken18>	FloridaMan, remove liver.
+T 1631639305 18<yuken18>	Can't have alcohol if you can't consume it.
+T 1631639317 18<herald18>	FloridaMan++
+T 1631639319 18<tinsoldier18>	FloridaMan: +338, -19 = 319. Informative (28) Funny (159) Wrong (5) Trolls (2)
+T 1631639321 18<Vultyre18>	Liver bypass
+T 1631639338 18<herald18>	good luck FloridaMan you got this
+T 1631639513 24*	Nachlader has quit (Ping timeout: 265 seconds)
+T 1631639529 18<dumptrucktaco18>	Well on that serious note
+T 1631639531 18<dumptrucktaco18>	+joke
+T 1631639533 18<chat18>	Past, present, and future walked into a bar.... It was tense.
+T 1631639543 18<Vultyre18>	uh
+T 1631639557 18<dumptrucktaco18>	that was poor timing @chat
+T 1631639558 18<Vultyre18>	Read the room
+T 1631639565 18<dumptrucktaco18>	seriously
+T 1631639568 18<dumptrucktaco18>	+joke
+T 1631639568 18<chat18>	If at first you don't succeed, sky diving is not for you!
+T 1631639596 24*	28ingenhittade is now known as 18Nachlader
+T 1631639639 18<yuken18>	jessicara, scots may no longer be allowed to protest outside of their parliament.
+T 1631639643 18<yuken18>	kek
+T 1631639727 18<dumptrucktaco18>	"The peasants may not protest. It ruins my afternoon tea"
+T 1631639858 24*	scaleww has quit (Remote host closed the connection)
+T 1631639909 23*	tsapien (tsapien@user/tsapien23) has joined
+T 1631639959 18<dumptrucktaco18>	!puzzle numbers
+T 1631639960 18<tinsoldier18>	⏱﹖﹥ Numbers: Get as close as possible to 553 using the numbers 50 75 2 1 4 2 (Using only + - * / and parentheses). You have 45 seconds.
+T 1631639995 18<dumptrucktaco18>	50*(2*4+2)+75-1
+T 1631640005 18<tinsoldier18>	⏱﹖﹥ Time's up. The winner was dumptrucktaco with 50*(2*4+2)+75-1 = 574 (21 away).
+T 1631677679 19*	Now talking on 22##chat
+T 1631677679 22*	Topic for 22##chat is: Welcome to ##chat, a social and offtopic channel for sensible conversations | THIS IS A POLITICS-FREE ZONE! You have been warned. | Rules: https://pastebin.com/raw/ntTcx2xb | We reserve the right to remove annoying people | Free Speech: https://xkcd.com/1357/ | In case of PM spam, '/mode your_nick_here +R'
+T 1631677679 22*	Topic for 22##chat set by 26MetaNova!zero-one@znc/supporter/metanova (24Fri Jun  4 18:39:08 2021)
+T 1631677679 -18ChanServ-	[##chat] Welcome to ##chat! By joining this channel you agree to having read and understood the channel rules: https://pastebin.com/raw/ntTcx2xb | Ops can be found at ##chat-ops | Enjoy your stay!
+T 1631677679 22*	Channel 22##chat url: 24https://pastebin.com/raw/ntTcx2xb
+T 1631677747 23*	Protocol2 (~Protocol2@user/protocol223) has joined
+T 1631678155 24*	AssKoala has quit (Ping timeout: 240 seconds)
+T 1631678245 24*	Enyo has quit (Quit: See you, Space Cowboy...)
+T 1631678358 24*	Protocol2 has quit (Ping timeout: 252 seconds)
+T 1631678406 18<shailangsa18>	it seems due to potential legal troubles of just pointing a firearm at someone albeit a burglar and to avoid any hassle with the local police searching the house and finding that i may have a blank firing gun (possibly even having records of it due to having to show ID to the vendor when purchasing it) , buying a blank firing gun is not the most practical option this time, though would have
+T 1631678406 18<shailangsa18>	loved to own one
+T 1631678454 24*	Rockpods has quit (Read error: Connection reset by peer)
+T 1631678510 23*	Protocol2 (~Protocol2@user/protocol223) has joined
+T 1631678857 24*	Cashlin has quit (Read error: Connection reset by peer)
+T 1631678883 23*	Cashlin (~hp@user/cashlin23) has joined
+T 1631678955 18<yukiup18>	a blank gun..
+T 1631679154 18<catbeard18>	got bit by a skeeter
+T 1631679162 18<shailangsa18>	just want to avoid hassle with the local police
+T 1631679204 18<catbeard18>	even brandishing a weapon is time
+T 1631679210 18<catbeard18>	even not loaded
+T 1631679215 24*	Protocol2 has quit (Ping timeout: 265 seconds)
+T 1631679222 18<shailangsa18>	thats why
+T 1631679298 18<herald18>	a weapon should not be shown unless you intend to use it imo
+T 1631679310 24*	Glassjoe has quit (Quit: joe)
+T 1631679313 18<catbeard18>	got a friend with a ankle monitor for brandishing a shotty, wasn't loaded and was pointed away from dude, and they both know she didn't know how to fire it, she's being sued by dude, he's her abusive bf of 5 years
+T 1631679317 18<herald18>	displaying a weapon simply for purpose of display is problematic at best
+T 1631679360 24*	deltab has quit (Ping timeout: 265 seconds)
+T 1631679368 24*	kirk781 has quit (Quit: Leaving)
+T 1631679371 18<shailangsa18>	sticking to shining an imalent ms18 at a burglar's face is convenient instead it seems
+T 1631679396 18<herald18>	shoot the burglar problem solved
+T 1631679406 24*	progandy has quit (Ping timeout: 268 seconds)
+T 1631679408 18<herald18>	if someone enters your house as a burglar shoot them
+T 1631679419 18<yukiup18>	oops
+T 1631679435 18<shailangsa18>	herald, read the first line i mentioned
+T 1631679451 18<catbeard18>	drip thermite onto the burgulars until you uncover their employer
+T 1631679460 18<catbeard18>	then report to CTU
+T 1631679464 18<herald18>	i see it shailangsa
+T 1631679475 23*	Protocol2 (~Protocol2@user/protocol223) has joined
+T 1631679498 18<duckgoose18>	:)
+T 1631679511 18*	herald shoves coffee at duckgoose
+T 1631679523 18<herald18>	you will all become one with coffee
+T 1631679525 18<duckgoose18>	thank you
+T 1631679528 18*	herald slurps
+T 1631679535 18<shailangsa18>	you got a gun?
+T 1631679548 18<herald18>	me?
+T 1631679553 18<herald18>	yes i do
+T 1631679558 18<duckgoose18>	I hear jenny's got a gun
+T 1631679563 18*	catbeard blows finger
+T 1631679581 18<catbeard18>	wanna see the fastest shot in the world?
+T 1631679586 18<catbeard18>	wanna see it again?
+T 1631679602 18<herald18>	catbeard why do ducks have feathers?
+T 1631679605 18<shugo18>	yo
+T 1631679621 18<herald18>	to cover the buttquacks of course
+T 1631679628 18<shailangsa18>	keeping a gun albeit a blank firing one is like a tax it seems, just more hassle from the local police force here in the UK
+T 1631679632 18<catbeard18>	+voteban herald
+T 1631679642 18<duckgoose18>	+voteop herald
+T 1631679642 18<catbeard18>	lol
+T 1631679646 18<herald18>	lol
+T 1631679669 18<catbeard18>	it's more of like it looks like a gun so they treat it as a gun
+T 1631679677 18<catbeard18>	more often than not even if orange cap
+T 1631679702 18<catbeard18>	some guns are made to look that way so from far away it's recognized as airsoft / non-bullet rounds
+T 1631679709 18<catbeard18>	just orange paint
+T 1631679750 18<yukiup18>	nerf or nothing
+T 1631679760 18<shailangsa18>	this is the blank firing one was thinking of getting, it has a blocked off barrel in orange https://snipboard.io/LRic5w.jpg
+T 1631679761 18<catbeard18>	narf
+T 1631679761 18<chat18>	^ [image/png] (204.6KiB)
+T 1631679809 23*	Atque (~Atque@user/atque23) has joined
+T 1631679811 23*	Rockpods (~Rockpods@234.sub-174-255-0.myvzw.com23) has joined
+T 1631679865 23*	Protocol1 (~Protocol2@user/protocol223) has joined
+T 1631679884 24*	Protocol2 has quit (Ping timeout: 260 seconds)
+T 1631679994 23*	deltab (~deltab@user/deltab23) has joined
+T 1631680034 24*	Rockpods has quit (Remote host closed the connection)
+T 1632099322 19*	Now talking on 22##chat
+T 1632099322 22*	Topic for 22##chat is: Welcome to ##chat, a social and offtopic channel for sensible conversations | THIS IS A POLITICS-FREE ZONE! You have been warned. | Rules: https://pastebin.com/raw/ntTcx2xb | We reserve the right to remove annoying people | Free Speech: https://xkcd.com/1357/ | In case of PM spam, '/mode your_nick_here +R'
+T 1632099322 22*	Topic for 22##chat set by 26MetaNova!zero-one@znc/supporter/metanova (24Fri Jun  4 18:39:08 2021)
+T 1632099322 -18ChanServ-	[##chat] Welcome to ##chat! By joining this channel you agree to having read and understood the channel rules: https://pastebin.com/raw/ntTcx2xb | Ops can be found at ##chat-ops | Enjoy your stay!
+T 1632099322 22*	Channel 22##chat url: 24https://pastebin.com/raw/ntTcx2xb
+T 1632099330 18<bradyt18>	🐶
+T 1632099364 23*	JimmyRustles (Haddock@cpc119394-smal16-2-0-cust17.19-1.cable.virginm.net23) has joined
+T 1632099374 18<bradyt18>	⏱﹖﹥ Time's up and M rMattsmind had the best answer with 'S53'.
+T 1632099381 18<JimmyRustles18>	so do you guys believe in angels?
+T 1632099414 18<bradyt18>	sure
+T 1632099478 18<bradyt18>	⏱﹖﹥ Time's up. The winner was p arsnip with 'sure'.
+T 1632099529 18<bradyt18>	JimmyRustles: was i close?
+T 1632099584 18<rukus18>	+w
+T 1632099585 18<chat18>	Cape Town, Western Cape, South Africa :: Mostly Cloudy 55.9F/13.3C (Humidity: 86%) | Feels like: 55.9F/13.3C | Wind: 8.31mph/13.4kph NW | Wind gust: 11.55mph/18.6kph | Monday: Possible light rain in the morning. High 60.3F/15.7C. Low 49.9F/9.9C. | Tuesday: Partly cloudy throughout the day. High 65.5F/18.6C. Low 50.0F/10.0C.
+T 1632099589 24*	gioyik has quit (Ping timeout: 276 seconds)
+T 1632099599 18<bradyt18>	+dadjoke
+T 1632099600 18<chat18>	What do prisoners use to call each other? Cell phones.
+T 1632099654 24*	sn1tch3r has quit (Quit: Leaving)
+T 1632099661 24*	baw has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+T 1632099810 23*	ttree (~ttree0@c-73-239-62-159.hsd1.wa.comcast.net23) has joined
+T 1632099815 18<roosterphant18>	haha
+T 1632099829 18<roosterphant18>	thats actually true
+T 1632099843 18<hackinghorn18>	interesting
+T 1632099847 18<hackinghorn18>	+dadjoke
+T 1632099848 18<chat18>	Did you hear about the bread factory burning down? They say the business is toast.
+T 1632099863 18<hackinghorn18>	lol good one
+T 1632099879 18<hackinghorn18>	+dadjoke
+T 1632099880 18<chat18>	Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
+T 1632099896 18<hackinghorn18>	alright I guess
+T 1632099914 18<hackinghorn18>	+joke
+T 1632099914 18<chat18>	Why do ducks make great detectives? They always quack the case.
+T 1632099928 18<hackinghorn18>	+joke
+T 1632099929 18<chat18>	How are false teeth like stars? They come out at night!
+T 1632099943 18<hackinghorn18>	hmm okay
+T 1632100059 23*	AssKoala (~AssKoala@23-121-91-253.lightspeed.dybhfl.sbcglobal.net23) has joined
+T 1632100281 24*	rukus has quit (Quit: Lost terminal)
+T 1632100347 23*	rukus (~daniel@2600:70ff:e819:c0ff:ba11:a651:6ca4:2ebf23) has joined
+T 1632100362 24*	Seirdy has quit (Quit: exiting 3.2)
+T 1632100420 23*	Seirdy (~Seirdy@sourcehut/user/seirdy23) has joined
+T 1632100423 18<jessicara18>	+momjoke
+T 1632100431 18<MrMattsmind18>	lol
+T 1632100436 18<MrMattsmind18>	good one
+T 1632100437 18<jessicara18>	doesn't exist yet
+T 1632100893 24*	Urk has quit (Remote host closed the connection)
+T 1632100896 18<dtype18>	What sweets do astronaut moms like?
+T 1632100898 18<dtype18>	Mars bars.
+T 1632101033 23*	pluri (~pluri@user/pluri23) has joined
+T 1632101693 23*	JBrittSteele1 (~jbrittste@2600:1011:b114:ff47:805d:fb4e:c0c6:42a823) has joined
+T 1632101798 24*	AllMyNames has quit (Quit: Leaving)
+T 1632101822 23*	AllMyNames (~AllMyName@user/allmynames23) has joined
+T 1632101971 23*	trillian (~marvin@user/trinity23) has joined
+T 1632102586 24*	mijowh has quit (Quit: ZNC 1.8.2 - https://znc.in)
+T 1632102641 24*	anovick_ has quit (Ping timeout: 252 seconds)
+T 1632102776 24*	AssKoala has quit (Ping timeout: 240 seconds)
+T 1632102881 24*	lucasgonze has quit (Quit: My MacBook Air has gone to sleep. ZZZzzz…)
+T 1632102907 24*	grys has quit (Ping timeout: 265 seconds)
+T 1632103244 24*	Macuser has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1632103256 24*	mindofjoe has quit (Quit: Leaving)
+T 1632103292 23*	lucasgonze (~lucasgonz@135-180-49-232.fiber.dynamic.sonic.net23) has joined
+T 1632103381 18<voltage_18>	+joke
+T 1632103383 18<chat18>	What musical instrument is found in the bathroom? A tuba toothpaste.
+T 1632103418 23*	scottpedia (~black@user/scottpedia23) has joined
+T 1632103422 18<scottpedia18>	hello guys
+T 1632103425 18<scottpedia18>	!puzzle
+T 1632103426 18<tinsoldier18>	⏱﹖﹥ Letters: Make the longest word from these letters in 30 seconds: T A E A J I I Y T
+T 1632103431 18<scottpedia18>	te
+T 1632103433 18<scottpedia18>	teaa
+T 1632103435 18<scottpedia18>	tea
+T 1632103449 23*	mijowh (~mijowh@user/mijowh23) has joined
+T 1632103456 24*	rukus has quit (Quit: leaving)
+T 1632103458 18<scottpedia18>	guys
+T 1632103459 18<tinsoldier18>	⏱﹖﹥ Time's up and s​cottpedia had the best answer with 'tea'.
+T 1632103461 18<scottpedia18>	anyone?
+T 1632103467 23*	rukus (~daniel@2600:70ff:e819:c0ff:ba11:a651:6ca4:2ebf23) has joined
+T 1632103467 18<scottpedia18>	!puzzle number
+T 1632103468 18<tinsoldier18>	⏱﹖﹥ Numbers: Get as close as possible to 323 using the numbers 50 1 9 9 1 7 (Using only + - * / and parentheses). You have 45 seconds.
+T 1632103495 18<scottpedia18>	50*(7-1)+9+9
+T 1632103496 18<tinsoldier18>	⏱﹖﹥ s​cottpedia: nice try. You're only 5 off.
+T 1632103504 18<scottpedia18>	50*(7-1)+9+9+1
+T 1632103506 18<tinsoldier18>	⏱﹖﹥ s​cottpedia: nice try. You're only 4 off.
+T 1632103512 18<tinsoldier18>	⏱﹖﹥ Time's up. The winner was scottpedia with 50*(7-1)+9+9+1 = 319 (4 away). Nice!
+T 1632103517 18<scottpedia18>	!puzzle
+T 1632103520 18<tinsoldier18>	⏱﹖﹥ XWord: Complete the following 'easy' word: _ _ f_ u_ t (Meaning: A loss incurred by failing to compete.)
+T 1632103525 18<trillian18>	50*(7-1)+9-9+1
+T 1632103529 18<trillian18>	oops
+T 1632103529 18<tinsoldier18>	⏱﹖﹥ Puzzle hint: The word begins with 'd'
+T 1632103533 18<voltage_18>	defeat
+T 1632103535 24*	Uetzwurst has quit (Quit: Leaving)
+T 1632103537 18<voltage_18>	default
+T 1632103537 18<trillian18>	slow
+T 1632103539 18<tinsoldier18>	⏱﹖﹥ v​oltage: 'default' is the correct answer. It took you 18 seconds.
+T 1632103543 18<scottpedia18>	hello guys
+T 1632103547 18<scottpedia18>	hello trillian
+T 1632103548 18<trillian18>	default
+T 1632103554 18<trillian18>	hi scottpedia
+T 1632103592 18<trillian18>	thost maths one were pretty hard
+T 1632103599 18<trillian18>	!puzzle
+T 1632103604 18<tinsoldier18>	⏱﹖﹥ Scramble: Unscramble the following 'easy' word: 'nembearm' (Meaning: A piece of parchment forming part of a roll.)
+T 1632103611 18<trillian18>	or maybe my brain doesn't feel like focusing
+T 1632103612 18<tinsoldier18>	⏱﹖﹥ Puzzle hint: The word begins with 'm'
+T 1632103613 18<abirkill18>	membrane
+T 1632103614 18<tinsoldier18>	⏱﹖﹥ a​birkill: 'membrane' is the correct answer. It took you 11 seconds.
+T 1632103616 18<abirkill18>	(insane in the)
+T 1632103622 18<trillian18>	good job
+T 1632103632 24*	klerk has quit (Remote host closed the connection)
+T 1632103749 18<trillian18>	song of the 90s
+T 1632103751 18<trillian18>	!puzzle
+T 1632103753 18<tinsoldier18>	⏱﹖﹥ Trivia (easy): In which 1955 film does Frank Sinatra play Nathan Detroit?
+T 1632103762 18<tinsoldier18>	⏱﹖﹥ Puzzle hint: G_ _ _   _ _ d  _ o_ l_ 
+T 1632103770 18<ruin18>	Guys And Dolls
+T 1632103772 18<tinsoldier18>	⏱﹖﹥ r​uin: 'Guys and Dolls' is the correct answer. It took you 20 seconds.
+T 1632103777 18<trillian18>	very good
+T 1632103790 18<trillian18>	It's a musical too
+T 1632103799 18<ruin18>	gross. never seen it.
+T 1632103807 24*	denza242 has quit (Remote host closed the connection)
+T 1632103812 23*	denza252 (~denza242@sapphire/support/denza24223) has joined
+T 1632103851 18<trillian18>	is it gross?
+T 1632103857 18<ruin18>	i don't like musicals
+T 1632103869 18<ruin18>	breaking out into song is weird
+T 1632103895 18<voltage_18>	!puzzle
+T 1632103896 18<tinsoldier18>	⏱﹖﹥ Scramble: Unscramble the following 'easy' word: 'nuafotoind' (Meaning: The act of founding, fixing, establishing, or beginning to erect.)
+T 1632103898 18<ruin18>	not sure why i have that movie name in my head.
+T 1632103904 18<ruin18>	foundation
+T 1632103905 18<tinsoldier18>	⏱﹖﹥ r​uin: 'foundation' is the correct answer. It took you 8 seconds.
+T 1632103908 18<voltage_18>	!puzzle
+T 1632103909 18<tinsoldier18>	⏱﹖﹥ Letters: Make the longest word from these letters in 30 seconds: I E A B H N L N F
+T 1632103920 18<voltage_18>	heal
+T 1632103922 18<abirkill18>	final
+T 1632103930 18<roosterphant18>	finale
+T 1632103937 18<abirkill18>	nice
+T 1632103941 18<tinsoldier18>	⏱﹖﹥ Time's up and r​oosterphant had the best answer with 'finale'.  (play competitively in ##puzzle)
+T 1632103992 18<gabin18>	enflabinh
+T 1632104030 18<bradyt18>	!puzzle
+T 1632104031 18<tinsoldier18>	⏱﹖﹥ Letters: Make the longest word from these letters in 30 seconds: C I Q Z F U O U A
+T 1632104041 18<bradyt18>	quiz
+T 1632104061 18<tinsoldier18>	⏱﹖﹥ Time's up and b​radyt had the best answer with 'quiz'.
+T 1632104068 18<bradyt18>	!puzzle
+T 1632104070 18<tinsoldier18>	⏱﹖﹥ XWord: Complete the following 'easy' word: _ er_ _ na_  (Meaning: Fatal; resulting in death.)
+T 1632104079 18<tinsoldier18>	⏱﹖﹥ Puzzle hint: The word begins with 't'
+T 1632104082 18<abirkill18>	terminal
+T 1632104083 18<tinsoldier18>	⏱﹖﹥ a​birkill: 'terminal' is the correct answer. It took you 14 seconds.
+T 1632104087 18<bradyt18>	terminate
+T 1649277344 19*	Now talking on 22##chat
+T 1649277344 22*	Topic for 22##chat is: Welcome to ##chat, a social and offtopic channel for sensible conversations. Mind the language. | THIS IS A POLITICS-FREE ZONE! You have been warned. | Rules: https://pastebin.com/raw/ntTcx2xb | We reserve the right to remove annoying people | Free Speech: https://xkcd.com/1357/ | In case of PM spam, '/mode your_nick_here +R'
+T 1649277344 22*	Topic for 22##chat set by 26MetaNova!zero-one@znc/supporter/metanova (24Wed Jan 19 13:38:31 2022)
+T 1649277345 -18ChanServ-	[##chat] Welcome to ##chat! Please mind the language, ##chat is intended to be family-friendly. By joining this channel you agree to having read and understood the channel rules: https://pastebin.com/raw/ntTcx2xb | Ops can be found at ##chat-ops | Enjoy your stay!
+T 1649277345 22*	Channel 22##chat url: 24https://pastebin.com/raw/ntTcx2xb
+T 1649277473 23*	SpiderDisco (~SpiderDis@2604:2d80:a802:b200:a84f:4a9e:331c:8add23) has joined
+T 1649277496 23*	riff_IRC (~riff-IRC@user/riff-irc23) has joined
+T 1649277528 24*	riff-IRC has quit (Read error: Connection reset by peer)
+T 1649277628 24*	duracrisis has quit (Quit: Remember, smarter not harder!)
+T 1649277668 23*	duracrisis (~kkh@user/duracrisis23) has joined
+T 1649277824 24*	Niekdo has quit (Quit: Niekdo went to touch some grass.)
+T 1649277999 23*	ko (~i.am@user/marlboro23) has joined
+T 1649278041 24*	unknow has quit (Ping timeout: 248 seconds)
+T 1649278077 FiSHLiM	hexchat_print called without a valid context.
+T 1652477224 19*	Now talking on 22##chat
+T 1652477224 22*	Topic for 22##chat is: Welcome to ##chat, a social and offtopic channel for sensible conversations. Mind the language. | THIS IS A POLITICS-FREE ZONE! You have been warned. | Rules: https://pastebin.com/raw/ntTcx2xb | We reserve the right to remove annoying people | Free Speech: https://xkcd.com/1357/ | In case of PM spam, '/mode your_nick_here +R'
+T 1652477224 22*	Topic for 22##chat set by 26MetaNova!zero-one@znc/supporter/metanova (24Wed Jan 19 13:38:31 2022)
+T 1652477224 -18ChanServ-	[##chat] Welcome to ##chat! Please mind the language, ##chat is intended to be family-friendly. By joining this channel you agree to having read and understood the channel rules: https://pastebin.com/raw/ntTcx2xb | Ops can be found at ##chat-ops | Enjoy your stay!
+T 1652477224 22*	Channel 22##chat url: 24https://pastebin.com/raw/ntTcx2xb
+T 1652477230 18<FlowerRazorDice18>	The identifier for a circuit.
+T 1652477234 FiSHLiM plugin unloaded

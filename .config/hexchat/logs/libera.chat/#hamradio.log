@@ -1,0 +1,90 @@
+**** BEGIN LOGGING AT Tue Sep 14 12:52:36 2021
+
+Sep 14 12:52:36 *	Now talking on #hamradio
+Sep 14 12:52:36 *	Topic for #hamradio is: #hamradio's new home! | Read entry message! | qsl is our new channel bot | Stats: https://bit.ly/2OEonCe | Politics-free zone. Rules: https://bit.ly/30gpNaR | POLL: Looking for a domain name for channel: suggestions? #hamradio-webpage awaits! | #hamradio-social for offtopic talk (this includes coronavirus)
+Sep 14 12:52:36 *	Topic for #hamradio set by ErrantEgo!~ErrantEgo@cold/wet/errantego (Wed Aug 25 20:49:56 2021)
+Sep 14 12:52:36 -ChanServ-	[#hamradio] Don't forget to 'LIKE' our Facebook page: https://www.facebook.com/liberachathamradio | Please register your nickname to speak, thank you! | Please look at http://kline.sh/ | Our channel bot - w8irc - will most likely not be migrating over with us :( Please say hi to qsl!
+Sep 14 12:52:47 <Bugz000>	each element being 20m it means he's still carrying 40m of wire 
+Sep 14 12:52:48 <twiclo>	So is he actually "tuning" the antenna?
+Sep 14 12:52:50 <twiclo>	I really think he's talking about tuning his radio that the antenna is plugged into
+Sep 14 12:53:05 <Brownout>	Bugz000: not each element, the whole length
+Sep 14 12:53:53 <Brownout>	twiclo: he's talking about cutting the wire to the correct length to resonate at the desired frequency/wavelength
+Sep 14 12:54:07 <N0ZYC>	Bugz000: what did you say you were hauling with huge filter caps?
+Sep 14 12:54:08 <twiclo>	Why is he choosing those frequencies specifically?
+Sep 14 12:54:17 <twiclo>	Is this so he doesn't have to bother actually tuning the antennas?
+Sep 14 12:54:28 <Bugz000>	N0ZYC the VLF station near me 
+Sep 14 12:54:34 <Bugz000>	it's mostly demolished now
+Sep 14 12:54:38 <twiclo>	Oh he just said why he chose those frequencies. I guess they're sota calling freqs
+Sep 14 12:54:57 <Brownout>	twiclo: they're the cw portion of the respective ham radio bands he cited
+Sep 14 12:55:21 <twiclo>	Brownout: do you see those white things on the wire? Is he just using those to detach segments of wire so he can switch bands?
+Sep 14 12:55:22 <Bugz000>	https://bugz000.co.uk/i/vU8SId6k.png N0ZYC the tuning coils
+Sep 14 12:55:23 <chat>	^ [image/png] (848.3KiB)
+Sep 14 12:55:40 <twiclo>	Oh man I just need to watch the video. He goes over it
+Sep 14 12:55:44 <Bugz000>	https://bugz000.co.uk/i/pmC935NH.png the caps N0ZYC
+Sep 14 12:55:45 <chat>	^ [image/png] (616.0KiB)
+Sep 14 12:56:03 <Brownout>	twiclo: yes, it's a linked dipole, he can electrically disconnect segments of the antenna without changing its mechanical length
+Sep 14 12:56:04 <Bugz000>	https://bugz000.co.uk/i/RfDoWSed.png VLF variometer N0ZYC
+Sep 14 12:56:05 <chat>	^ [image/png] (824.2KiB)
+Sep 14 12:56:14 <N0ZYC>	wow
+Sep 14 12:56:23 <Bugz000>	was used to talk to submarines iirc
+Sep 14 12:56:37 <N0ZYC>	that's typically what they use yes
+Sep 14 12:56:45 <Bugz000>	https://bugz000.co.uk/i/gkOLXdDI.png 
+Sep 14 12:56:46 <chat>	^ [image/png] (593.5KiB)
+Sep 14 12:56:50 <twiclo>	Very cool. I just saw him unlink a segment but he doesn't care to change where the new center of the line is. Wouldn't that impact performance having not the center be at the tip of the mast?
+Sep 14 12:56:53 <Bugz000>	here's one of the HF masts N0SSH
+Sep 14 12:56:55 <Bugz000>	N0ZYC
+Sep 14 12:57:09 <N0ZYC>	I thought the antennas for that were horizontal over a large area
+Sep 14 12:57:26 <Bugz000>	https://bugz000.co.uk/i/SmuFXvBx.png N0ZYC here's some of the giant pylons in view, the cable was strung up in a W shape with a giant winch station at each end up on the hill (near where the photo was taken) 
+Sep 14 12:57:26 <chat>	^ [image/png] (484.5KiB)
+Sep 14 12:57:47 <Bugz000>	they operated HF and VLF
+Sep 14 12:57:56 <twiclo>	Brownout: Would you recommend a dipole or an end fed?
+Sep 14 12:58:16 *	ccallahan has quit (Ping timeout: 260 seconds)
+Sep 14 12:58:40 *	GenTooMan (~cyberman@2601:547:437f:e5c6:21f:5bff:fefe:a883) has joined
+Sep 14 12:58:53 <Bugz000>	N0ZYC https://bugz000.co.uk/i/yc18brQ5.png this really gives scale, this is a sentry post inside one of the VLF pylons 
+Sep 14 12:58:54 <chat>	^ [image/png] (448.3KiB)
+Sep 14 12:59:24 <N0ZYC>	heh, sentry post
+Sep 14 12:59:41 <N0ZYC>	I suppose it's a room with a view
+Sep 14 12:59:52 <Bugz000>	terrifying to be up there no doubt haha
+Sep 14 12:59:56 <Bugz000>	specially on a windy day
+Sep 14 13:00:11 <N0ZYC>	need to give me a fire pole so at least it's fun at the end of the shift
+Sep 14 13:00:34 <N0ZYC>	I honestly have no problems with heights
+Sep 14 13:01:07 <Brownout>	twiclo: depends of your needs, a dipole is easier to build and self-support on summits, since you can use the wires as support guys for the pole, the efhw is very popular because you don't have to do anything to switch bands
+Sep 14 13:01:10 <Bugz000>	ugh, heights i don't mind, i'm terrified of pylons and large trees though... anything that looks large and unstable haha
+Sep 14 13:01:48 *	Deneb (~johnch@86.111.189.80.dyn.plus.net) has joined
+Sep 14 13:01:51 <N0ZYC>	I recall years ago being up a big pine tree in high winds...  pine's soft, so those *really* sway in the wind.  I bet I was going 5ft back and forth easy
+Sep 14 13:02:13 <N0ZYC>	I don't care so much for towers that move
+Sep 14 13:02:17 <Bugz000>	pine is actually harder/denser than oak :D but i 100% get what you mean haha 
+Sep 14 13:02:28 <Bugz000>	try being up a damn larch....
+Sep 14 13:02:31 <N0ZYC>	it bends more when wet
+Sep 14 13:02:34 <Bugz000>	same
+Sep 14 13:02:43 <N0ZYC>	I mean when the wood's live
+Sep 14 13:02:50 <Bugz000>	my wood aint dead yet
+Sep 14 13:03:07 <Bugz000>	i used to be a forester/logger N0ZYC :D
+Sep 14 13:03:08 <twiclo>	Brownout Why don't you have to do anything to switch bands? Wouldn't you need to retune it?
+Sep 14 13:03:19 <N0ZYC>	I've got some good climbing gear now, I don't get to use it all that often
+Sep 14 13:03:28 <Bugz000>	been up too many sketchy trees
+Sep 14 13:04:02 <N0ZYC>	but there's always someone in the area that needs tower work.  we were supposed to take down a tower last week but he didn't have the tower "cleaned", so we spent our time stripping off anteanns, hardline, etc
+Sep 14 13:04:16 <N0ZYC>	we'l be back out again this weekend to take down the tower itself (3 sections)
+Sep 14 13:04:37 *	craftxbox is now known as snep
+Sep 14 13:04:39 <N0ZYC>	was brutally hot, 95 and sunny, no wind
+Sep 14 13:04:45 <N0ZYC>	should be much nicer weather this weekend
+Sep 14 13:04:47 <Bugz000>	the worst is larch, there's 3 aspects to timber strength,  1, hang,  2, brittleness,  3, density,      trees pick 2 and lose out on a third 
+Sep 14 13:05:08 *	menace (~someone@ppp-93-104-186-17.dynamic.mnet-online.de) has joined
+Sep 14 13:05:10 <Bugz000>	so like willow can fold in half and not break but is not dense at all 
+Sep 14 13:05:24 *	menace is now known as Deknos
+Sep 14 13:05:40 <Brownout>	twiclo: because it resonates on harmonically related bands
+Sep 14 13:05:43 <Bugz000>	larch in this measure is 100% brittle and 100% dense and 0% hang, so it bends... bends... then BANG it will crack like a shotgun and it's snapped clean off rofl
+Sep 14 13:06:10 <Bugz000>	bad news if you're on the bit that comes out! :p
+Sep 14 13:08:10 <Bugz000>	https://bugz000.co.uk/i/lWoFGmjq.jpg N0ZYC a rare photo of me working
+Sep 14 13:08:11 <chat>	^ [image/jpeg] (264.0KiB)
+Sep 14 13:09:08 <twiclo>	Brownout: That sounds way over my head. Guess I should just keep reading my general license manual
+Sep 14 13:09:52 <Bugz000>	N0ZYC would you believe those trees are over 100ft tall? wild 
+Sep 14 13:10:49 <Bugz000>	they don't look it from the base but you can see how dense they were planted 
+Sep 14 13:13:33 <N0ZYC>	that is rather surprising for their small girth
+Sep 14 13:18:14 *	Bassusteur has quit (Quit: Going offline, see ya! (www.adiirc.com))
+Sep 14 13:18:45 <N0ZYC>	an oldie but a goodie: https://i.imgur.com/qTtLh77.jpeg
+Sep 14 13:18:45 <chat>	^ image/jpeg 444x466 26.4KiB :: 5,925 views :: safe for work
+Sep 14 13:20:43 <Southern_Gentlem>	good thing she didnt plug it in either 
+Sep 14 13:20:59 FiSHLiM plugin unloaded
+**** ENDING LOGGING AT Tue Sep 14 13:20:59 2021
+

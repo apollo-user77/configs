@@ -1,0 +1,198 @@
+{
+   "checksum": "725cccfb0d49b454d340296727e5a5a2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13273379739000000",
+                  "guid": "63a96294-bda2-4c97-883d-76a7b7448717",
+                  "id": "8",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               }, {
+                  "date_added": "13273379739000000",
+                  "guid": "12c861d8-0b9b-42eb-b2ca-a14889ef6897",
+                  "id": "9",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13273379739000000",
+                  "guid": "dfe81127-be82-4420-9cad-0aaaae919f53",
+                  "id": "10",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/contribute/"
+               }, {
+                  "date_added": "13273379739000000",
+                  "guid": "9d4a5034-50be-4893-8ef6-1e7b03da9864",
+                  "id": "11",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/about/"
+               }, {
+                  "date_added": "13243029448000000",
+                  "guid": "084ab3f5-dff6-40a0-ba03-f58f1e74222c",
+                  "id": "12",
+                  "name": "Help and Tutorials",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               } ],
+               "date_added": "13275594517783785",
+               "date_modified": "0",
+               "guid": "b3ae7231-45b4-4d32-a296-6f5fe3f7fad6",
+               "id": "7",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "date_added": "13273483676000000",
+               "guid": "202bd50f-c351-4cca-8333-d7ee6eecfcb0",
+               "id": "13",
+               "name": "The Ultimate Oldschool PC Font Pack: Home",
+               "type": "url",
+               "url": "https://int10h.org/oldschool-pc-fonts/"
+            }, {
+               "date_added": "13273881719000000",
+               "guid": "23d2b53f-9b9a-420c-bcdc-95e133ce515c",
+               "id": "14",
+               "name": "2bwm - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/2bwm"
+            }, {
+               "date_added": "13274202845000000",
+               "guid": "b6a42338-7bba-40e7-af36-8a9f822f51bf",
+               "id": "15",
+               "name": "Beyond Labz Portal",
+               "type": "url",
+               "url": "https://gibbs.beyondlabz.com/"
+            }, {
+               "children": [ {
+                  "date_added": "13243357794000000",
+                  "guid": "7d6a5fde-2e9b-450f-b569-a5749dd53071",
+                  "id": "17",
+                  "name": "MyPath Home",
+                  "type": "url",
+                  "url": "https://kctcs.sharepoint.com/sites/mypath"
+               }, {
+                  "date_added": "13244588352000000",
+                  "guid": "ec0a4815-82eb-4e68-81b4-f8b21a3aa285",
+                  "id": "18",
+                  "name": "Meet - dab-reji-qrf",
+                  "type": "url",
+                  "url": "https://meet.google.com/dab-reji-qrf?authuser=1"
+               }, {
+                  "date_added": "13244676644000000",
+                  "guid": "ddbc6455-4c2c-43da-9f15-e332359851b7",
+                  "id": "19",
+                  "name": "Pandoc - Getting started with pandoc",
+                  "type": "url",
+                  "url": "https://pandoc.org/getting-started.html"
+               }, {
+                  "date_added": "13244771928000000",
+                  "guid": "19c31b57-e77b-4ef6-8271-b9a04b77f879",
+                  "id": "20",
+                  "name": "Pandoc wrappers and interfaces · jgm/pandoc Wiki · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/jgm/pandoc/wiki/Pandoc-wrappers-and-interfaces"
+               }, {
+                  "date_added": "13246466154000000",
+                  "guid": "49ef7ab4-6dbe-4598-8090-ac13ab7ad4f1",
+                  "id": "21",
+                  "name": "Mail - justin.t12@outlook.com - Outlook",
+                  "type": "url",
+                  "url": "https://outlook.live.com/mail/0/inbox"
+               }, {
+                  "children": [ {
+                     "date_added": "13248481496000000",
+                     "guid": "c53e65cf-31e1-4108-a405-c8159791ed8e",
+                     "id": "23",
+                     "name": "EKAC Questions - Google Drive",
+                     "type": "url",
+                     "url": "https://drive.google.com/drive/folders/18X2pceaCqXXInRgpfuvIrkbsyChlD800"
+                  } ],
+                  "date_added": "13275594517784058",
+                  "date_modified": "0",
+                  "guid": "403d86da-a5cd-4e29-97ca-c348b2ba3796",
+                  "id": "22",
+                  "name": "Other other",
+                  "type": "folder"
+               }, {
+                  "date_added": "13249491293000000",
+                  "guid": "dd47c77d-a212-45db-a31a-09dbd19f74b4",
+                  "id": "24",
+                  "name": "TickTick",
+                  "type": "url",
+                  "url": "https://www.ticktick.com/webapp/"
+               }, {
+                  "date_added": "13249491451000000",
+                  "guid": "de669be8-bbfa-4271-bc55-b1182e0e959f",
+                  "id": "25",
+                  "name": "Wekan — Open-Source kanban",
+                  "type": "url",
+                  "url": "https://wekan.github.io/"
+               }, {
+                  "date_added": "13250144711000000",
+                  "guid": "80a7477b-d880-4e06-846a-378d3c8e636a",
+                  "id": "26",
+                  "name": "martincounty.pdf",
+                  "type": "url",
+                  "url": "http://www.krwa.org/2018ccr/martincounty.pdf"
+               }, {
+                  "date_added": "13250202581000000",
+                  "guid": "4c49a723-7266-4680-89a5-0a9c2ba804f3",
+                  "id": "27",
+                  "name": "Blackboard Learn",
+                  "type": "url",
+                  "url": "https://elearning.kctcs.edu/"
+               }, {
+                  "date_added": "13250396682000000",
+                  "guid": "60e46a3a-2995-430a-9fca-de71391160f3",
+                  "id": "28",
+                  "name": "The Ultimate White Noise Generator • Design Your Own Color",
+                  "type": "url",
+                  "url": "https://mynoise.net/NoiseMachines/whiteNoiseGenerator.php"
+               } ],
+               "date_added": "13275594517783959",
+               "date_modified": "0",
+               "guid": "a2375455-b0fe-40b1-aed2-7fdc73e467da",
+               "id": "16",
+               "name": "unfiled",
+               "type": "folder"
+            } ],
+            "date_added": "13275594517783567",
+            "date_modified": "0",
+            "guid": "974b6162-6835-4a03-a271-53e647c93136",
+            "id": "6",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         } ],
+         "date_added": "13275594395053806",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13275594395053810",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13275594395053813",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,4 @@
+python.setInterpreter
+clangd.install
+python.setInterpreter
+python.runLinting

@@ -1,0 +1,86 @@
+T 1631638356 19*	Now talking on 22#hamradio
+T 1631638356 22*	Topic for 22#hamradio is: #hamradio's new home! | Read entry message! | qsl is our new channel bot | Stats: https://bit.ly/2OEonCe | Politics-free zone. Rules: https://bit.ly/30gpNaR | POLL: Looking for a domain name for channel: suggestions? #hamradio-webpage awaits! | #hamradio-social for offtopic talk (this includes coronavirus)
+T 1631638356 22*	Topic for 22#hamradio set by 26ErrantEgo!~ErrantEgo@cold/wet/errantego (24Wed Aug 25 20:49:56 2021)
+T 1631638356 -18ChanServ-	[#hamradio] Don't forget to 'LIKE' our Facebook page: https://www.facebook.com/liberachathamradio | Please register your nickname to speak, thank you! | Please look at http://kline.sh/ | Our channel bot - w8irc - will most likely not be migrating over with us :( Please say hi to qsl!
+T 1631638367 18<Bugz00018>	each element being 20m it means he's still carrying 40m of wire 
+T 1631638368 18<twiclo18>	So is he actually "tuning" the antenna?
+T 1631638370 18<twiclo18>	I really think he's talking about tuning his radio that the antenna is plugged into
+T 1631638385 18<Brownout18>	Bugz000: not each element, the whole length
+T 1631638433 18<Brownout18>	twiclo: he's talking about cutting the wire to the correct length to resonate at the desired frequency/wavelength
+T 1631638447 18<N0ZYC18>	Bugz000: what did you say you were hauling with huge filter caps?
+T 1631638448 18<twiclo18>	Why is he choosing those frequencies specifically?
+T 1631638457 18<twiclo18>	Is this so he doesn't have to bother actually tuning the antennas?
+T 1631638468 18<Bugz00018>	N0ZYC the VLF station near me 
+T 1631638474 18<Bugz00018>	it's mostly demolished now
+T 1631638478 18<twiclo18>	Oh he just said why he chose those frequencies. I guess they're sota calling freqs
+T 1631638497 18<Brownout18>	twiclo: they're the cw portion of the respective ham radio bands he cited
+T 1631638521 18<twiclo18>	Brownout: do you see those white things on the wire? Is he just using those to detach segments of wire so he can switch bands?
+T 1631638522 18<Bugz00018>	https://bugz000.co.uk/i/vU8SId6k.png N0ZYC the tuning coils
+T 1631638523 18<chat18>	^ [image/png] (848.3KiB)
+T 1631638540 18<twiclo18>	Oh man I just need to watch the video. He goes over it
+T 1631638544 18<Bugz00018>	https://bugz000.co.uk/i/pmC935NH.png the caps N0ZYC
+T 1631638545 18<chat18>	^ [image/png] (616.0KiB)
+T 1631638563 18<Brownout18>	twiclo: yes, it's a linked dipole, he can electrically disconnect segments of the antenna without changing its mechanical length
+T 1631638564 18<Bugz00018>	https://bugz000.co.uk/i/RfDoWSed.png VLF variometer N0ZYC
+T 1631638565 18<chat18>	^ [image/png] (824.2KiB)
+T 1631638574 18<N0ZYC18>	wow
+T 1631638583 18<Bugz00018>	was used to talk to submarines iirc
+T 1631638597 18<N0ZYC18>	that's typically what they use yes
+T 1631638605 18<Bugz00018>	https://bugz000.co.uk/i/gkOLXdDI.png 
+T 1631638606 18<chat18>	^ [image/png] (593.5KiB)
+T 1631638610 18<twiclo18>	Very cool. I just saw him unlink a segment but he doesn't care to change where the new center of the line is. Wouldn't that impact performance having not the center be at the tip of the mast?
+T 1631638613 18<Bugz00018>	here's one of the HF masts N0SSH
+T 1631638615 18<Bugz00018>	N0ZYC
+T 1631638629 18<N0ZYC18>	I thought the antennas for that were horizontal over a large area
+T 1631638646 18<Bugz00018>	https://bugz000.co.uk/i/SmuFXvBx.png N0ZYC here's some of the giant pylons in view, the cable was strung up in a W shape with a giant winch station at each end up on the hill (near where the photo was taken) 
+T 1631638646 18<chat18>	^ [image/png] (484.5KiB)
+T 1631638667 18<Bugz00018>	they operated HF and VLF
+T 1631638676 18<twiclo18>	Brownout: Would you recommend a dipole or an end fed?
+T 1631638696 24*	ccallahan has quit (Ping timeout: 260 seconds)
+T 1631638720 23*	GenTooMan (~cyberman@2601:547:437f:e5c6:21f:5bff:fefe:a88323) has joined
+T 1631638733 18<Bugz00018>	N0ZYC https://bugz000.co.uk/i/yc18brQ5.png this really gives scale, this is a sentry post inside one of the VLF pylons 
+T 1631638734 18<chat18>	^ [image/png] (448.3KiB)
+T 1631638764 18<N0ZYC18>	heh, sentry post
+T 1631638781 18<N0ZYC18>	I suppose it's a room with a view
+T 1631638792 18<Bugz00018>	terrifying to be up there no doubt haha
+T 1631638796 18<Bugz00018>	specially on a windy day
+T 1631638811 18<N0ZYC18>	need to give me a fire pole so at least it's fun at the end of the shift
+T 1631638834 18<N0ZYC18>	I honestly have no problems with heights
+T 1631638867 18<Brownout18>	twiclo: depends of your needs, a dipole is easier to build and self-support on summits, since you can use the wires as support guys for the pole, the efhw is very popular because you don't have to do anything to switch bands
+T 1631638870 18<Bugz00018>	ugh, heights i don't mind, i'm terrified of pylons and large trees though... anything that looks large and unstable haha
+T 1631638908 23*	Deneb (~johnch@86.111.189.80.dyn.plus.net23) has joined
+T 1631638911 18<N0ZYC18>	I recall years ago being up a big pine tree in high winds...  pine's soft, so those *really* sway in the wind.  I bet I was going 5ft back and forth easy
+T 1631638933 18<N0ZYC18>	I don't care so much for towers that move
+T 1631638937 18<Bugz00018>	pine is actually harder/denser than oak :D but i 100% get what you mean haha 
+T 1631638948 18<Bugz00018>	try being up a damn larch....
+T 1631638951 18<N0ZYC18>	it bends more when wet
+T 1631638954 18<Bugz00018>	same
+T 1631638963 18<N0ZYC18>	I mean when the wood's live
+T 1631638970 18<Bugz00018>	my wood aint dead yet
+T 1631638987 18<Bugz00018>	i used to be a forester/logger N0ZYC :D
+T 1631638988 18<twiclo18>	Brownout Why don't you have to do anything to switch bands? Wouldn't you need to retune it?
+T 1631638999 18<N0ZYC18>	I've got some good climbing gear now, I don't get to use it all that often
+T 1631639008 18<Bugz00018>	been up too many sketchy trees
+T 1631639042 18<N0ZYC18>	but there's always someone in the area that needs tower work.  we were supposed to take down a tower last week but he didn't have the tower "cleaned", so we spent our time stripping off anteanns, hardline, etc
+T 1631639056 18<N0ZYC18>	we'l be back out again this weekend to take down the tower itself (3 sections)
+T 1631639077 24*	28craftxbox is now known as 18snep
+T 1631639079 18<N0ZYC18>	was brutally hot, 95 and sunny, no wind
+T 1631639085 18<N0ZYC18>	should be much nicer weather this weekend
+T 1631639087 18<Bugz00018>	the worst is larch, there's 3 aspects to timber strength,  1, hang,  2, brittleness,  3, density,      trees pick 2 and lose out on a third 
+T 1631639108 23*	menace (~someone@ppp-93-104-186-17.dynamic.mnet-online.de23) has joined
+T 1631639110 18<Bugz00018>	so like willow can fold in half and not break but is not dense at all 
+T 1631639124 24*	28menace is now known as 18Deknos
+T 1631639140 18<Brownout18>	twiclo: because it resonates on harmonically related bands
+T 1631639143 18<Bugz00018>	larch in this measure is 100% brittle and 100% dense and 0% hang, so it bends... bends... then BANG it will crack like a shotgun and it's snapped clean off rofl
+T 1631639170 18<Bugz00018>	bad news if you're on the bit that comes out! :p
+T 1631639290 18<Bugz00018>	https://bugz000.co.uk/i/lWoFGmjq.jpg N0ZYC a rare photo of me working
+T 1631639291 18<chat18>	^ [image/jpeg] (264.0KiB)
+T 1631639348 18<twiclo18>	Brownout: That sounds way over my head. Guess I should just keep reading my general license manual
+T 1631639392 18<Bugz00018>	N0ZYC would you believe those trees are over 100ft tall? wild 
+T 1631639449 18<Bugz00018>	they don't look it from the base but you can see how dense they were planted 
+T 1631639613 18<N0ZYC18>	that is rather surprising for their small girth
+T 1631639894 24*	Bassusteur has quit (Quit: Going offline, see ya! (www.adiirc.com))
+T 1631639925 18<N0ZYC18>	an oldie but a goodie: https://i.imgur.com/qTtLh77.jpeg
+T 1631639925 18<chat18>	^ image/jpeg 444x466 26.4KiB :: 5,925 views :: safe for work
+T 1631640043 18<Southern_Gentlem18>	good thing she didnt plug it in either 
+T 1631640059 FiSHLiM plugin unloaded

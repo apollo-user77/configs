@@ -1,0 +1,65 @@
+**** BEGIN LOGGING AT Mon Sep 13 21:01:52 2021
+
+Sep 13 21:01:52 *	*** Looking up your hostname...
+Sep 13 21:01:52 *	Capabilities supported: multi-prefix sasl=PLAIN,AUTHCOOKIE userhost-in-names
+Sep 13 21:01:52 *	Capabilities requested: multi-prefix userhost-in-names 
+Sep 13 21:01:52 *	*** If you are having problems connecting due to registration timeouts type /quote PONG JYZ@`pbelu or /raw PONG JYZ@`pbelu now.
+Sep 13 21:01:52 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Sep 13 21:01:53 *	*** Found your hostname (76.8.169.17.IMCTV.dynamic.mis.net)
+**** ENDING LOGGING AT Mon Sep 13 21:01:54 2021
+
+**** BEGIN LOGGING AT Mon Sep 13 21:01:54 2021
+
+Sep 13 21:01:54 *	Welcome to the LibraIRC IRC Network Rook__!Rook__@76.8.169.17.IMCTV.dynamic.mis.net
+Sep 13 21:01:54 *	Your host is irc01-black.librairc.net, running version InspIRCd-3
+Sep 13 21:01:54 *	This server was created 11:21:42 Apr 24 2021
+Sep 13 21:01:54 *	irc01-black.librairc.net InspIRCd-3 BGHLORSTVWacdhikorswx BCEFGHIJKLMNOPQRSTWXabcdefghijklmnopqrstvxy :BEFHIJLWXabdefghjkloqvxy
+Sep 13 21:01:54 *	AWAYLEN=200 CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXbeg,k,BEFHJLWdfjlx,CGKMNOPQRSTcimnprst CHANNELLEN=32 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e EXTBAN=,CNOQRSTUacjmpr HOSTLEN=64 INVEX=I :are supported by this server
+Sep 13 21:01:54 *	KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=IXbeg:100 MAXTARGETS=20 MODES=32 MONITOR=30 NAMESX NETWORK=LibraIRC NICKLEN=15 OVERRIDE PREFIX=(yqaohv)!~&@%+ SAFELIST :are supported by this server
+Sep 13 21:01:54 *	SECURELIST SILENCE=32 STATUSMSG=!~&@%+ TOPICLEN=307 UHNAMES USERIP USERLEN=11 WATCH=30 WHOX :are supported by this server
+Sep 13 21:01:54 *	There are 0 users and 284 invisible on 3 servers
+Sep 13 21:01:54 *	2 :operator(s) online
+Sep 13 21:01:54 *	1 :unknown connections
+Sep 13 21:01:54 *	254 :channels formed
+Sep 13 21:01:54 *	I have 167 clients and 2 servers
+Sep 13 21:01:54 *	Current local users: 167  Max: 2009
+Sep 13 21:01:54 *	Current global users: 284  Max: 2017
+Sep 13 21:01:54 *	irc01-black.librairc.net message of the day
+Sep 13 21:01:54 *	- ~~ Disclaimer ~~
+Sep 13 21:01:54 *	- IRC is an unmoderated medium! LibraIRC.Net, it's bandwith and hosting
+Sep 13 21:01:54 *	- providers, partners, vendors, staff, and all associated parties
+Sep 13 21:01:54 *	- are in no way responsible for the content transmitted by or
+Sep 13 21:01:54 *	- contained on this server, or loss/damage/liability as a result of
+Sep 13 21:01:54 *	- use of our server(s) or service(s). Never accept files or go
+Sep 13 21:01:54 *	- to URLs from people you do not know and/or trust!
+Sep 13 21:01:54 *	- 
+Sep 13 21:01:54 *	- Information About LibraIRC.Net:
+Sep 13 21:01:54 *	- 
+Sep 13 21:01:54 *	- TOS: http://librairc.net/forums/thread-9703.html
+Sep 13 21:01:54 *	- Staff : http://librairc.net/forums/showteam.php
+Sep 13 21:01:54 *	- Helpdesk: http://librairc.net/helpdesk/
+Sep 13 21:01:54 *	- Network URLS: http://librairc.com & http://librairc.net & http://librairc.org
+Sep 13 21:01:54 *	- Souvenired: http://chanops.org
+Sep 13 21:01:54 *	- 
+Sep 13 21:01:54 *	- The Lounge Client: https://lounge.librairc.net
+Sep 13 21:01:54 *	- KiwiIRC Client:  https://kiwi.librairc.net
+Sep 13 21:01:54 *	- Mibbit Client: http://englishchat.net
+Sep 13 21:01:54 *	- QwebIRC Client: http://webchat.librairc.net
+Sep 13 21:01:54 *	- 
+Sep 13 21:01:54 *	- Ports Available: /server irc.librairc.net 6660-6669,7000 and SSL 6697
+Sep 13 21:01:54 *	- Official Help Channel: /join #Help
+Sep 13 21:01:54 *	- 
+Sep 13 21:01:54 *	- If you do not agree with the rules do not enter or use LibraIRC.Net Chat Network.
+Sep 13 21:01:54 *	End of message of the day.
+Sep 13 21:01:54 *	LibraIRC-4j4.m74.18m2hh.IP :is now your displayed host
+Sep 13 21:01:54 *	Rook__ sets mode +i on Rook__
+Sep 13 21:01:54 *	Rook__ sets mode +w on Rook__
+Sep 13 21:01:54 *	Rook__ sets mode +x on Rook__
+Sep 13 21:01:54 *	Rook__ sets mode +T on Rook__
+Sep 13 21:01:54 -NickServ-	Welcome to LibraIRC, Rook__! Here on LibraIRC, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ help and /msg ChanServ help.
+Sep 13 21:02:24 Perl interface unloaded
+Sep 13 21:02:24 FiSHLiM plugin unloaded
+Sep 13 21:02:24 Sysinfo plugin unloaded
+Sep 13 21:02:24 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Sep 13 21:02:24 2021
+

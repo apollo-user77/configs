@@ -1,0 +1,5 @@
+2022/05/13-17:05:46.082 bc7 Reusing MANIFEST /home/justin/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/05/13-17:05:46.082 bc7 Recovering log #7
+2022/05/13-17:05:46.085 bc7 Level-0 table #10: started
+2022/05/13-17:05:46.100 bc7 Level-0 table #10: 436812 bytes OK
+2022/05/13-17:05:46.106 bc7 Delete type=0 #7

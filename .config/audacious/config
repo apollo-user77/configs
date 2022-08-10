@@ -1,0 +1,57 @@
+
+[audacious]
+shuffle=TRUE
+
+[audgui]
+eq_preset_win=594,346,409,227
+filebrowser_win=459,181,672,480
+filesel_path=/home/justin/Music
+playlist_export_win=408,167,780,585
+playlist_path=file:///home/justin/Music/Metal%20Playlist
+
+[gtkui]
+column_widths=10,275,175,10,175,175,10,100,39,10,275,275,275,10,275
+player_maximized=TRUE
+player_x=562
+player_y=170
+show_remaining_time=TRUE
+
+[gtkui-layout]
+item0_name=Blur Scope
+item0_pos=-1,800,22,792,870
+item1_name=OpenGL Spectrum Analyzer
+item1_pos=-1,800,22,792,870
+item2_name=Spectrum Analyzer
+item2_pos=-1,800,22,792,870
+item3_name=Album Art
+item3_pos=-1,800,22,792,870
+item4_name=Playlist Manager
+item4_pos=-1,800,22,792,870
+item5_name=LyricWiki Plugin
+item5_pos=-1,800,22,792,870
+item6_name=Search Tool
+item6_pos=0,-1,-1,210,782
+item_count=7
+
+[qtui]
+player_height=856
+player_width=1596
+
+[skins]
+always_on_top=TRUE
+double_size=TRUE
+equalizer_shaded=TRUE
+equalizer_x=107
+equalizer_y=289
+mainwin_font=Sans Bold 11
+player_x=43
+player_y=213
+playlist_font=Sans Bold 9
+playlist_x=957
+playlist_y=89
+show_remaining_time=TRUE
+skin=/usr/share/audacious/Skins/Default
+
+[skins-layout]
+eq_presets=654,332,288,192
+gl-spectrum-qt=1239,261,288,192

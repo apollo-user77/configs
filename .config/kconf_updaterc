@@ -1,0 +1,16 @@
+updateInfoAdded=true
+
+[akregator.upd]
+ctime=1645714344
+done=akregator-15.08-kickoff
+mtime=1604165637
+
+[filepicker.upd]
+ctime=1645714325
+done=filepicker-remove-old-previews-entry
+mtime=1609593460
+
+[messageviewer.upd]
+ctime=1645714329
+done=messageviewer_move_gravatar
+mtime=1603719398

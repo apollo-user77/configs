@@ -1,0 +1,37 @@
+T 1649277191 19*	Now talking on 22#debian
+T 1649277191 22*	Topic for 22#debian is: Current release: Debian 11.3 "bullseye" /msg dpkg bullseye | oldstable, Debian 10 /msg dpkg buster | Stretch (Debian 9) is on limited LTS support: /msg dpkg stretch-lts | NO FLOOD: /msg dpkg paste | offtopic: #debian-offtopic | testing/unstable: #debian-next @ irc.oftc.net | Community expectations: http://deb.li/conduct
+T 1649277191 22*	Topic for 22#debian set by 26abrotman!~abrotman@user/abrotman (24Sat Mar 26 08:13:36 2022)
+T 1649277191 -18ChanServ-	[#debian] Welcome to #Debian. This is a support channel; if you have a question about stable releases of Debian GNU/Linux, ask and we will try our best to answer it. Please do not paste in the channel; use https://paste.debian.net instead. Developers and specialist channels are mostly at irc.debian.org / irc.oftc.net. Community expectations: https://www.debian.org/code_of_conduct
+T 1649277203 18<sh418>	the point of using full disk encryption is that a malignous party can't install a backdoored kernel
+T 1649277294 20*	Disconnected (20)
+T 1649277314 19*	Now talking on 22#debian
+T 1649277314 22*	Topic for 22#debian is: Current release: Debian 11.3 "bullseye" /msg dpkg bullseye | oldstable, Debian 10 /msg dpkg buster | Stretch (Debian 9) is on limited LTS support: /msg dpkg stretch-lts | NO FLOOD: /msg dpkg paste | offtopic: #debian-offtopic | testing/unstable: #debian-next @ irc.oftc.net | Community expectations: http://deb.li/conduct
+T 1649277314 22*	Topic for 22#debian set by 26abrotman!~abrotman@user/abrotman (24Sat Mar 26 08:13:36 2022)
+T 1649277314 -18ChanServ-	[#debian] Welcome to #Debian. This is a support channel; if you have a question about stable releases of Debian GNU/Linux, ask and we will try our best to answer it. Please do not paste in the channel; use https://paste.debian.net instead. Developers and specialist channels are mostly at irc.debian.org / irc.oftc.net. Community expectations: https://www.debian.org/code_of_conduct
+T 1649277316 18<sney18>	that would satisfy your use case, as long as the encryption key isn't stored somewhere obviously on /
+T 1649277326 24*	cliluw has quit (Quit: Leaving)
+T 1649277346 18<Khepra18>	the point of FDE is to protect data at rest. to protect the kernel, you need signed kernels and SecureBoot(tm)
+T 1649277388 23*	echelon (~echelon@gateway/tor-sasl/steerpike23) has joined
+T 1649277389 18<echelon18>	hi
+T 1649277395 18<Khepra18>	FDE otherwise doesn't protect the kernel. your grub code could be subverted
+T 1649277406 18<echelon18>	where do i get a checksum of all the package in a given repository?
+T 1649277411 23*	c10l (~c10l@user/c10l23) has joined
+T 1649277419 18<echelon18>	i'm trying to get the checksums from http://ftp.debian.org/debian/pool/non-free/
+T 1649277471 18<somiaj18>	echelon: why do you need the checksum, apt should already be doing checks
+T 1649277493 24*	Rook__ has quit (Ping timeout: 272 seconds)
+T 1649277496 23*	riff_IRC (~riff-IRC@user/riff-irc23) has joined
+T 1649277497 18<echelon18>	i'm using dpkg to install
+T 1649277497 18<tga18>	what would be your go to encryption for a portable vm? full disk vs home only?
+T 1649277498 24*	sh00p has quit (Ping timeout: 260 seconds)
+T 1649277528 24*	riff-IRC has quit (Read error: Connection reset by peer)
+T 1649277555 23*	zumba_addict (~zumba_add@c-71-194-58-34.hsd1.il.comcast.net23) has joined
+T 1649277589 18<echelon18>	somiaj: i could've sworn there was a text file of all sha checksums
+T 1649277591 18<somiaj18>	echelon: I think they are contained in the release files, 'apt-cache show packagename' will give you the checksum of the package.
+T 1649277605 18<somiaj18>	I belive this is all included in the relase files, but not exactly sure where
+T 1649277611 18<sney18>	I can't think of a reason to even have separate volumes for a portable vm, much less encrypt some and not others
+T 1649277675 18<somiaj18>	yea, they are in the release files, I find them all in /var/lib/apt/lists/...., that contains the full list of all the packages from the repo, including their md5sum and sha256 sum
+T 1649277716 18<somiaj18>	http://ftp.debian.org/debian/dists/Debian11.3/non-free/binary-amd64/ they will probably be in those package lists
+T 1649277743 24*	c10l has quit (Quit: See ya! o/)
+T 1649277809 24*	CEP has quit (Quit: me juí)
+T 1649277812 23*	duuude (~user@user/duuude23) has joined
+T 1649277882 23*	BuzzardBuzz (~BuzzardBu@103.209.254.7623) has joined

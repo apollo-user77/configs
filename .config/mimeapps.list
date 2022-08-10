@@ -1,0 +1,34 @@
+[Added Associations]
+application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice-impress.desktop;
+application/pdf=org.pwmt.zathura-pdf-poppler.desktop;libreoffice-draw.desktop;mupdf.desktop;
+x-scheme-handler/feed=userapp-SeaMonkey-YXGOA1.desktop;
+application/rss+xml=userapp-SeaMonkey-YXGOA1.desktop;
+application/x-extension-rss=userapp-SeaMonkey-YXGOA1.desktop;
+application/octet-stream=ristretto.desktop;xfce4-terminal-emulator.desktop;nvim.desktop;
+text/html=firefox-esr.desktop;nvim.desktop;firefox.desktop;
+application/vnd.debian.binary-package=gdebi.desktop;synaptic.desktop;xarchiver.desktop;
+x-scheme-handler/http=xfce4-web-browser.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;
+x-scheme-handler/mailto=xfce4-mail-reader.desktop;
+text/plain=nvim.desktop;
+application/xml=nvim.desktop;
+application/vnd.appimage=xfce4-terminal.desktop;
+text/markdown=nvim.desktop;vim.desktop;
+video/mp4=vlc.desktop;
+video/x-matroska=vlc.desktop;
+application/rtf=libreoffice-writer.desktop;
+application/zip=xarchiver.desktop;
+application/epub+zip=com.github.johnfactotum.Foliate.desktop;org.pwmt.zathura-cb.desktop;
+audio/mpeg=audacious.desktop;qmmp.desktop;
+audio/x-mpegurl=audacious.desktop;
+image/png=ristretto.desktop;display-im6.q16.desktop;
+image/jpeg=ristretto.desktop;display-im6.q16.desktop;
+
+[Default Applications]
+x-scheme-handler/feed=userapp-SeaMonkey-YXGOA1.desktop
+application/rss+xml=userapp-SeaMonkey-YXGOA1.desktop
+application/x-extension-rss=userapp-SeaMonkey-YXGOA1.desktop
+x-scheme-handler/http=xfce4-web-browser.desktop
+x-scheme-handler/https=xfce4-web-browser.desktop
+x-scheme-handler/mailto=xfce4-mail-reader.desktop
+x-scheme-handler/discord-610508934456934412=discord-610508934456934412.desktop

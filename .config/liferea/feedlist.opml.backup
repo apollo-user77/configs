@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Liferea Feed List Export</title>
+  </head>
+  <body>
+    <outline title="Example Feeds" text="Example Feeds" description="Example Feeds" type="folder" id="eychvis" sortColumn="time" collapsed="true">
+      <outline title="News" text="News" description="News" type="folder" id="gsjvmef" sortColumn="time" collapsed="true">
+        <outline title="Ars Technica" text="Ars Technica" description="Ars Technica" type="rss" id="tnaeafv" sortColumn="time" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com" updateInterval="-1" collapsed="true"/>
+        <outline title="Slashdot" text="Slashdot" description="Slashdot" type="rss" id="mpyyuau" sortColumn="time" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/" updateInterval="-1" collapsed="true"/>
+        <outline title="BBC" text="BBC" description="BBC" type="rss" id="oxnvpyn" sortColumn="time" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml?edition=int" htmlUrl="https://www.bbc.co.uk/news/" updateInterval="-1" collapsed="true"/>
+        <outline title="Science" text="Science" description="Science" id="acebrgb" sortColumn="time" xmlUrl="https://www.sciencenews.org/feeds/headlines.rss" htmlUrl="" updateInterval="-1" collapsed="true"/>
+      </outline>
+      <outline title="Knowledge" text="Knowledge" description="Knowledge" type="folder" id="yucshcv" sortColumn="time" collapsed="true">
+        <outline title="Aeon" text="Aeon" description="Aeon" type="rss" id="ivbkvvc" sortColumn="time" xmlUrl="https://aeon.co/feed.rss" htmlUrl="https://aeon.co" updateInterval="-1" collapsed="true"/>
+        <outline title="Quanta Magazine" text="Quanta Magazine" description="Quanta Magazine" type="rss" id="lyapwsp" sortColumn="time" xmlUrl="https://api.quantamagazine.org/feed/" htmlUrl="https://www.quantamagazine.org" updateInterval="-1" collapsed="true"/>
+      </outline>
+      <outline title="Open Source" text="Open Source" description="Open Source" type="folder" id="pqyfnna" sortColumn="time" collapsed="true">
+        <outline title="Planet Debian" text="Planet Debian" description="Planet Debian" type="rss" id="ogatdwp" sortColumn="time" xmlUrl="https://planet.debian.org/rss20.xml" htmlUrl="https://planet.debian.org/" updateInterval="-1" collapsed="true"/>
+        <outline title="Liferea Blog" text="Liferea Blog" description="Liferea Blog" type="atom" id="fesphux" sortColumn="time" xmlUrl="http://feeds.feedburner.com/LifereaBlog" htmlUrl="http://feeds.feedburner.com/LifereaBlog" updateInterval="-1" collapsed="true"/>
+        <outline title="Planet GNOME" text="Planet GNOME" description="Planet GNOME" type="atom" id="hfuqajg" sortColumn="time" xmlUrl="http://planet.gnome.org/atom.xml" htmlUrl="https://planet.gnome.org/" updateInterval="-1" collapsed="true"/>
+      </outline>
+      <outline title="Podcasts" text="Podcasts" description="Podcasts" type="folder" id="apvnsqr" sortColumn="time" collapsed="true">
+        <outline title="EscapePod" text="EscapePod" description="EscapePod" type="atom" id="eeorsod" sortColumn="time" xmlUrl="http://escapepod.org/feed/atom/" htmlUrl="https://escapepod.org/feed/atom/" updateInterval="-1" collapsed="true"/>
+      </outline>
+      <outline title="Music Blogs" text="Music Blogs" description="Music Blogs" type="folder" id="qtmjhof" sortColumn="time" collapsed="true">
+        <outline title="Free Music Archive" text="Free Music Archive" description="Free Music Archive" id="npliqku" sortColumn="time" xmlUrl="https://freemusicarchive.org/recent.atom" htmlUrl="" updateInterval="-1" collapsed="true"/>
+        <outline title="Gorilla vs. Bear" text="Gorilla vs. Bear" description="Gorilla vs. Bear" type="rss" id="clgveig" sortColumn="time" xmlUrl="http://www.gorillavsbear.net/category/mp3/feed/" htmlUrl="https://www.gorillavsbear.net" updateInterval="-1" collapsed="true"/>
+        <outline title="KEXP" text="KEXP" description="KEXP" type="rss" id="vklbehc" sortColumn="time" xmlUrl="http://feeds.kexp.org/kexp/songoftheday" htmlUrl="https://www.kexp.org/podcasts/song-of-the-day" updateInterval="-1" collapsed="true"/>
+        <outline title="Fluxblog" text="Fluxblog" description="Fluxblog" type="rss" id="klebnal" sortColumn="time" xmlUrl="http://www.fluxblog.org/feed" htmlUrl="http://www.fluxblog.org" updateInterval="-1" collapsed="true"/>
+      </outline>
+      <outline title="Comics" text="Comics" description="Comics" type="folder" id="soqpoth" sortColumn="time" collapsed="true">
+        <outline title="xkcd" text="xkcd" description="xkcd" type="atom" id="jgqqvli" sortColumn="time" xmlUrl="https://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/" updateInterval="-1" collapsed="true"/>
+      </outline>
+    </outline>
+    <outline title="Unread" text="Unread" description="Unread" type="vfolder" id="msqneuu" sortColumn="time" matchType="any" unreadOnly="false" collapsed="true">
+      <outline type="rule" text="Read status" rule="unread" value="" additive="true"/>
+    </outline>
+    <outline title="Important" text="Important" description="Important" type="vfolder" id="tltflci" sortColumn="time" matchType="any" unreadOnly="false" collapsed="true">
+      <outline type="rule" text="Flag status" rule="flagged" value="" additive="true"/>
+    </outline>
+    <outline title="News" text="News" description="News" type="folder" id="sydincl" sortColumn="time" expanded="true">
+      <outline title="Bad News" text="Bad News" description="Bad News" type="folder" id="imubacq" sortColumn="time" collapsed="true">
+        <outline title="CBS" text="CBS" description="CBS" type="rss" id="gtwuacq" sortColumn="time" xmlUrl="https://www.cbsnews.com/latest/rss/main" htmlUrl="https://www.cbsnews.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="CNN Most Recent" text="CNN Most Recent" description="CNN Most Recent" type="rss" id="vwralso" sortColumn="time" xmlUrl="http://rss.cnn.com/rss/cnn_latest.rss" htmlUrl="http://www.cnn.com" updateInterval="-1" collapsed="true"/>
+        <outline title="CNN Top Stories" text="CNN Top Stories" description="CNN Top Stories" type="rss" id="ildqdua" sortColumn="time" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss" htmlUrl="https://www.cnn.com/index.html" updateInterval="-1" collapsed="true"/>
+        <outline title="English Wikinews RSS feed." text="English Wikinews RSS feed." description="English Wikinews RSS feed." type="rss" id="cnkyimm" sortColumn="time" xmlUrl="https://en.m.wikinews.org/w/index.php?title=Special:NewsFeed&amp;feed=rss&amp;categories=Published&amp;notcategories=No%20publish%7CArchived%7cAutoArchived%7cdisputed&amp;namespace=0&amp;count=15&amp;ordermethod=categoryadd&amp;stablepages=only" htmlUrl="https://en.wikinews.org/wiki/Main_Page" updateInterval="-1" collapsed="true"/>
+        <outline title="Fox News" text="Fox News" description="Fox News" type="rss" id="rixmshs" sortColumn="time" xmlUrl="http://feeds.foxnews.com/foxnews/latest" htmlUrl="https://moxie.foxnews.com/feedburner/latest.xml" updateInterval="-1" collapsed="true"/>
+        <outline title="Huffpost" text="Huffpost" description="Huffpost" type="rss" id="tgblahx" sortColumn="time" xmlUrl="https://www.huffingtonpost.com/section/front-page/feed" htmlUrl="https://www.huffpost.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="NPR" text="NPR" description="NPR" type="rss" id="elllxfn" sortColumn="time" xmlUrl="https://feeds.npr.org/1001/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1001" updateInterval="-1" collapsed="true"/>
+        <outline title="NY Times Front Page" text="NY Times Front Page" description="NY Times Front Page" type="rss" id="cjstyqw" sortColumn="time" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="https://www.nytimes.com" updateInterval="-1" collapsed="true"/>
+        <outline title="Slate" text="Slate" description="Slate" type="rss" id="ckrcsdo" sortColumn="time" xmlUrl="https://slate.com/feeds/all.rss" htmlUrl="https://slate.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="The Atlantic" text="The Atlantic" description="The Atlantic" type="atom" id="itopqrw" sortColumn="time" xmlUrl="https://www.theatlantic.com/feed/all/" htmlUrl="https://www.theatlantic.com/feed/all/" updateInterval="-1" collapsed="true"/>
+        <outline title="The Guardian (lel)" text="The Guardian (lel)" description="The Guardian (lel)" type="rss" id="dhdloge" sortColumn="time" xmlUrl="https://www.theguardian.com/world/rss" htmlUrl="https://www.theguardian.com/world" updateInterval="-1" collapsed="true"/>
+        <outline title="The Hill" text="The Hill" description="The Hill" type="rss" id="jxpfrgm" sortColumn="time" xmlUrl="http://thehill.com/rss/syndicator/19110" htmlUrl="https://thehill.com/rss/syndicator/19110" updateInterval="-1" collapsed="true"/>
+        <outline title="USA Today" text="USA Today" description="USA Today" type="rss" id="nenlway" sortColumn="time" xmlUrl="http://rssfeeds.usatoday.com/usatoday-NewsTopStories" htmlUrl="https://api-internal.usatoday.com.akadns.net" updateInterval="-1" collapsed="true"/>
+        <outline title="VOA" text="VOA" description="VOA" type="rss" id="ncmuxfj" sortColumn="time" xmlUrl="https://www.voanews.com/api/zq$omekvi_" htmlUrl="https://www.voanews.com/z/599" updateInterval="-1" collapsed="true"/>
+        <outline title="Vox" text="Vox" description="Vox" type="atom" id="sgeyhmj" sortColumn="time" xmlUrl="https://www.vox.com/rss/index.xml" htmlUrl="https://www.vox.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="Wash Post Politics" text="Wash Post Politics" description="Wash Post Politics" type="rss" id="kqslcvw" sortColumn="time" xmlUrl="http://feeds.washingtonpost.com/rss/politics?itid=lk_inline_manual_2" htmlUrl="http://www.washingtonpost.com/pb/politics/" updateInterval="-1" collapsed="true"/>
+      </outline>
+      <outline title="Finance" text="Finance" description="Finance" type="folder" id="ufsgslm" sortColumn="time" collapsed="true">
+        <outline title="Bloomberg Opinion" text="Bloomberg Opinion" description="Bloomberg Opinion" type="rss" id="guorlkj" sortColumn="time" xmlUrl="https://www.bloomberg.com/view/rss" htmlUrl="https://bloomberg.com/opinion/" updateInterval="-1" collapsed="true"/>
+        <outline title="WSJ.com: Markets" text="WSJ.com: Markets" description="WSJ.com: Markets" type="rss" id="gwmsyve" sortColumn="time" xmlUrl="https://feeds.a.dj.com/rss/RSSMarketsMain.xml" htmlUrl="http://online.wsj.com" updateInterval="-1" collapsed="true"/>
+        <outline title="WSJ.com: US Business" text="WSJ.com: US Business" description="WSJ.com: US Business" type="rss" id="eibxlgc" sortColumn="time" xmlUrl="https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml" htmlUrl="http://online.wsj.com" updateInterval="-1" collapsed="true"/>
+        <outline title="Yahoo Finance" text="Yahoo Finance" description="Yahoo Finance" type="rss" id="jubagpp" sortColumn="time" xmlUrl="https://finance.yahoo.com/news/rssindex/" htmlUrl="https://finance.yahoo.com/" updateInterval="-1" collapsed="true"/>
+      </outline>
+      <outline title="News" text="News" description="News" type="folder" id="fkomhog" sortColumn="time" collapsed="true">
+        <outline title="AP News" text="AP News" description="AP News" type="rss" id="hnishdp" sortColumn="time" xmlUrl="https://politepol.com/fd/u01gIpMosFey" htmlUrl="https://apnews.com/hub/ap-top-news" updateInterval="-1" collapsed="true"/>
+        <outline title="Axios" text="Axios" description="Axios" type="rss" id="orahwoh" sortColumn="time" xmlUrl="https://api.axios.com/feed/" htmlUrl="https://www.axios.com/top/" updateInterval="-1" collapsed="true"/>
+        <outline title="BBC News - Home" text="BBC News - Home" description="BBC News - Home" type="rss" id="vbysyue" sortColumn="time" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml?edition=us" htmlUrl="https://www.bbc.co.uk/news/" updateInterval="-1" collapsed="true"/>
+        <outline title="Politico" text="Politico" description="Politico" type="rss" id="ckmjkoy" sortColumn="time" xmlUrl="https://www.politico.com/rss/politicopicks.xml" htmlUrl="https://www.politico.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="Reuters: front page" text="Reuters: front page" description="Reuters: front page" type="rss" id="awylkid" sortColumn="time" xmlUrl="https://cdn.feedcontrol.net/8/1114-wioSIX3uu8MEj.xml" htmlUrl="https://www.reuters.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="Reuters: World News" text="Reuters: World News" description="Reuters: World News" type="rss" id="gwujsvs" sortColumn="time" xmlUrl="https://cdn.feedcontrol.net/8/1115-TvWAhu4G064WT.xml" htmlUrl="https://www.reuters.com/world" updateInterval="-1" collapsed="true"/>
+      </outline>
+      <outline title="Tech" text="Tech" description="Tech" type="folder" id="wnkeage" sortColumn="time" collapsed="true">
+        <outline title="Ars Technica" text="Ars Technica" description="Ars Technica" type="rss" id="buenmhh" sortColumn="time" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com" updateInterval="-1" collapsed="true"/>
+        <outline title="CNET" text="CNET" description="CNET" type="rss" id="pkocmae" sortColumn="time" xmlUrl="https://www.cnet.com/rss/all/" htmlUrl=" https://www.cnet.com/#ftag=CADf328eec" updateInterval="-1" collapsed="true"/>
+        <outline title="Crunch Hype" text="Crunch Hype" description="Crunch Hype" type="rss" id="akvgton" sortColumn="time" xmlUrl="http://feeds.feedburner.com/TechCrunch/" htmlUrl="http://www.crunchhype.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="Gamespot" text="Gamespot" description="Gamespot" type="rss" id="hllliwo" sortColumn="time" xmlUrl="https://www.gamespot.com/feeds/mashup" htmlUrl="https://www.gamespot.com/feeds/mashup/" updateInterval="-1" collapsed="true"/>
+        <outline title="IGN" text="IGN" description="IGN" type="rss" id="agmobmj" sortColumn="time" xmlUrl="http://feeds.feedburner.com/ign/all" htmlUrl="https://www.ign.com/articles" updateInterval="-1" collapsed="true"/>
+        <outline title="MacRumors" text="MacRumors" description="MacRumors" type="rss" id="tfsnsgp" sortColumn="time" xmlUrl="http://feeds.macrumors.com/MacRumors-All" htmlUrl="https://www.macrumors.com" updateInterval="-1" collapsed="true"/>
+        <outline title="Polygon -  All" text="Polygon -  All" description="Polygon -  All" type="atom" id="vqqcdhs" sortColumn="time" xmlUrl="https://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="The Verge -  All Posts" text="The Verge -  All Posts" description="The Verge -  All Posts" type="atom" id="fafqxoq" sortColumn="time" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="Wired" text="Wired" description="Wired" type="rss" id="tvioclg" sortColumn="time" xmlUrl="https://www.wired.com/feed/rss" htmlUrl="https://www.wired.com" updateInterval="-1" collapsed="true"/>
+      </outline>
+    </outline>
+  </body>
+</opml>

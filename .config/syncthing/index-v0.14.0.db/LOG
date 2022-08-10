@@ -1,0 +1,31 @@
+=============== Feb 2, 2022 (EST) ===============
+18:39:54.566082 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:39:54.573009 db@open opening
+18:39:54.573978 version@stat F·[] S·0B[] Sc·[]
+18:39:54.581009 db@janitor F·2 G·0
+18:39:54.581043 db@open done T·8.005503ms
+18:39:55.964075 memdb@flush N·40 S·1KiB
+18:39:55.972736 memdb@flush created L0@3 N·40 S·550B "\ndb..ion,v40":"\nla..ime,v19"
+18:39:55.972805 version@stat F·[1] S·550B[550B] Sc·[0.25]
+18:39:55.976787 memdb@flush committed F·1 T·12.673615ms
+18:39:55.976858 journal@remove removed @1
+18:39:55.976888 table@compaction range L-1 "":""
+18:39:55.976929 table@compaction L0·1 -> L1·0 S·550B Q·40
+18:39:55.981085 table@build created L1@4 N·4 S·207B "\ndb..ion,v40":"\nla..ime,v19"
+18:39:55.981188 version@stat F·[0 1] S·207B[0B 207B] Sc·[0.00 0.00]
+18:39:55.988039 table@compaction committed F~ S-343B Ke·0 D·36 T·11.024311ms
+18:39:55.988232 table@remove removed @3
+18:40:54.596507 memdb@flush N·7 S·252B
+18:40:54.601519 memdb@flush created L0@6 N·7 S·292B "\x04de..can,v47":"\npr..ion,v41"
+18:40:54.601621 version@stat F·[1 1] S·499B[292B 207B] Sc·[0.25 0.00]
+18:40:54.605705 memdb@flush committed F·1 T·9.040254ms
+18:40:54.605962 journal@remove removed @2
+18:40:54.606046 table@compaction range L-1 "":""
+18:40:54.606122 table@compaction L0·1 -> L1·1 S·499B Q·47
+18:40:54.611145 table@build created L1@7 N·11 S·389B "\x04de..can,v47":"\npr..ion,v41"
+18:40:54.611369 version@stat F·[0 1] S·389B[0B 389B] Sc·[0.00 0.00]
+18:40:54.615363 table@compaction committed F-1 S-110B Ke·0 D·0 T·9.138144ms
+18:40:54.615928 table@remove removed @6
+18:40:54.616166 table@remove removed @4
+20:48:17.250590 db@close closing
+20:48:17.250863 db@close done T·259.719µs

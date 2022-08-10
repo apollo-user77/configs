@@ -1,0 +1,490 @@
+**** BEGIN LOGGING AT Mon Sep 13 22:45:55 2021
+
+Sep 13 22:45:55 *	*** Checking Ident
+Sep 13 22:45:55 *	*** Looking up your hostname...
+Sep 13 22:45:55 *	*** Found your hostname: 76.8.169.17.IMCTV.dynamic.mis.net
+Sep 13 22:46:01 *	*** No Ident response
+Sep 13 22:46:01 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Sep 13 22:46:01 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl cap-notify 
+Sep 13 22:46:01 *	Rook__ is already in use. Retrying with Rook_...
+Sep 13 22:46:01 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl cap-notify
+Sep 13 22:46:02 *	Authenticating via SASL as Rook__ (PLAIN)
+Sep 13 22:46:04 *	You are now logged in as Rook__
+Sep 13 22:46:04 *	SASL authentication successful
+**** ENDING LOGGING AT Mon Sep 13 22:46:04 2021
+
+**** BEGIN LOGGING AT Mon Sep 13 22:46:04 2021
+
+Sep 13 22:46:04 *	Welcome to the Libera.Chat Internet Relay Chat Network Rook_
+Sep 13 22:46:04 *	Your host is molybdenum.libera.chat[51.161.82.214/6697], running version solanum-1.0-dev
+Sep 13 22:46:04 *	This server was created Tue Aug 31 2021 at 04:30:18 UTC
+Sep 13 22:46:04 *	molybdenum.libera.chat solanum-1.0-dev DGQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Sep 13 22:46:04 *	WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CTU CALLERID=g CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz :are supported by this server
+Sep 13 22:46:04 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+Sep 13 22:46:04 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+Sep 13 22:46:04 *	There are 66 users and 46689 invisible on 26 servers
+Sep 13 22:46:04 *	37 :IRC Operators online
+Sep 13 22:46:04 *	7 :unknown connection(s)
+Sep 13 22:46:04 *	20597 :channels formed
+Sep 13 22:46:04 *	I have 2415 clients and 1 servers
+Sep 13 22:46:04 *	2415 2854 :Current local users 2415, max 2854
+Sep 13 22:46:04 *	46755 48225 :Current global users 46755, max 48225
+Sep 13 22:46:04 *	Highest connection count: 2855 (2854 clients) (29361 connections received)
+Sep 13 22:46:04 *	- molybdenum.libera.chat Message of the Day - 
+Sep 13 22:46:04 *	- Welcome to Libera Chat, the IRC network for
+Sep 13 22:46:04 *	- free & open-source software and peer directed projects.
+Sep 13 22:46:04 *	-  
+Sep 13 22:46:04 *	- Use of Libera Chat is governed by our network policies.
+Sep 13 22:46:04 *	-  
+Sep 13 22:46:04 *	- Please visit us in #libera for questions and support.
+Sep 13 22:46:04 *	-  
+Sep 13 22:46:04 *	- Website and documentation:  https://libera.chat
+Sep 13 22:46:04 *	- Webchat:                    https://web.libera.chat
+Sep 13 22:46:04 *	- Network policies:           https://libera.chat/policies
+Sep 13 22:46:04 *	- Email:                      support@libera.chat
+Sep 13 22:46:04 *	End of /MOTD command.
+Sep 13 22:46:04 *	Rook_ sets mode +Z on Rook_
+Sep 13 22:46:04 *	Rook_ sets mode +i on Rook_
+Sep 13 22:46:04 -SaslServ-	Last login from: ~rookmatri@2001:470:69fc:105::838 on Jul 11 08:25:45 2021 +0000.
+**** ENDING LOGGING AT Mon Sep 13 22:50:47 2021
+
+**** BEGIN LOGGING AT Mon Sep 13 22:50:47 2021
+
+**** ENDING LOGGING AT Mon Sep 13 22:51:19 2021
+
+**** BEGIN LOGGING AT Mon Sep 13 22:51:19 2021
+
+**** ENDING LOGGING AT Mon Sep 13 23:13:49 2021
+
+**** BEGIN LOGGING AT Mon Sep 13 23:13:49 2021
+
+**** BEGIN LOGGING AT Mon Sep 13 23:16:02 2021
+
+Sep 13 23:16:02 *	Welcome to the Libera.Chat Internet Relay Chat Network Rook_
+Sep 13 23:16:02 *	Your host is molybdenum.libera.chat[51.161.82.214/6697], running version solanum-1.0-dev
+Sep 13 23:16:02 *	This server was created Tue Aug 31 2021 at 04:30:18 UTC
+Sep 13 23:16:02 *	molybdenum.libera.chat solanum-1.0-dev DGQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Sep 13 23:16:02 *	WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CTU CALLERID=g CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz :are supported by this server
+Sep 13 23:16:02 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+Sep 13 23:16:02 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+Sep 13 23:16:02 *	There are 66 users and 46679 invisible on 26 servers
+Sep 13 23:16:02 *	37 :IRC Operators online
+Sep 13 23:16:02 *	7 :unknown connection(s)
+Sep 13 23:16:02 *	20591 :channels formed
+Sep 13 23:16:02 *	I have 2396 clients and 1 servers
+Sep 13 23:16:02 *	2396 2854 :Current local users 2396, max 2854
+Sep 13 23:16:02 *	46745 48225 :Current global users 46745, max 48225
+Sep 13 23:16:02 *	Highest connection count: 2855 (2854 clients) (29395 connections received)
+Sep 13 23:16:02 *	- molybdenum.libera.chat Message of the Day - 
+Sep 13 23:16:02 *	- Welcome to Libera Chat, the IRC network for
+Sep 13 23:16:02 *	- free & open-source software and peer directed projects.
+Sep 13 23:16:02 *	-  
+Sep 13 23:16:02 *	- Use of Libera Chat is governed by our network policies.
+Sep 13 23:16:02 *	-  
+Sep 13 23:16:02 *	- Please visit us in #libera for questions and support.
+Sep 13 23:16:02 *	-  
+Sep 13 23:16:02 *	- Website and documentation:  https://libera.chat
+Sep 13 23:16:02 *	- Webchat:                    https://web.libera.chat
+Sep 13 23:16:02 *	- Network policies:           https://libera.chat/policies
+Sep 13 23:16:02 *	- Email:                      support@libera.chat
+Sep 13 23:16:02 *	End of /MOTD command.
+Sep 13 23:16:02 *	Rook_ sets mode +Z on Rook_
+Sep 13 23:16:02 *	Rook_ sets mode +i on Rook_
+Sep 13 23:16:03 -SaslServ-	Last login from: ~Rook__@76.8.169.17.IMCTV.dynamic.mis.net on Sep 14 03:14:28 2021 +0000.
+**** ENDING LOGGING AT Mon Sep 13 23:16:57 2021
+
+**** BEGIN LOGGING AT Mon Sep 13 23:16:57 2021
+
+Sep 13 23:30:40 *	You have been marked as being away
+Sep 13 23:31:11 *	You are no longer marked as being away
+Sep 13 23:31:16 *	You have been marked as being away
+Sep 14 00:07:12 Perl interface unloaded
+Sep 14 00:07:12 Sysinfo plugin unloaded
+Sep 14 00:07:12 Checksum plugin unloaded
+**** ENDING LOGGING AT Tue Sep 14 00:07:12 2021
+
+**** BEGIN LOGGING AT Tue Sep 14 12:22:55 2021
+
+Sep 14 12:22:55 *	Welcome to the Libera.Chat Internet Relay Chat Network Rook_
+Sep 14 12:22:55 *	Your host is iridium.libera.chat[188.240.145.100/6697], running version solanum-1.0-dev
+Sep 14 12:22:55 *	This server was created Mon Sep 13 2021 at 03:51:35 UTC
+Sep 14 12:22:55 *	iridium.libera.chat solanum-1.0-dev DGQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Sep 14 12:22:55 *	KNOCK SAFELIST ELIST=CTU MONITOR=100 CALLERID=g FNC WHOX ETRACE CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz :are supported by this server
+Sep 14 12:22:55 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+Sep 14 12:22:55 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+Sep 14 12:22:55 *	There are 65 users and 47809 invisible on 26 servers
+Sep 14 12:22:55 *	39 :IRC Operators online
+Sep 14 12:22:55 *	17 :unknown connection(s)
+Sep 14 12:22:55 *	20798 :channels formed
+Sep 14 12:22:55 *	I have 2642 clients and 1 servers
+Sep 14 12:22:55 *	2642 2686 :Current local users 2642, max 2686
+Sep 14 12:22:55 *	47874 48310 :Current global users 47874, max 48310
+Sep 14 12:22:55 *	Highest connection count: 2687 (2686 clients) (9638 connections received)
+Sep 14 12:22:55 *	- iridium.libera.chat Message of the Day - 
+Sep 14 12:22:55 *	- This server provided by NORDUnet/SUNET
+Sep 14 12:22:55 *	- Welcome to Libera Chat, the IRC network for
+Sep 14 12:22:55 *	- free & open-source software and peer directed projects.
+Sep 14 12:22:55 *	-  
+Sep 14 12:22:55 *	- Use of Libera Chat is governed by our network policies.
+Sep 14 12:22:55 *	-  
+Sep 14 12:22:55 *	- Please visit us in #libera for questions and support.
+Sep 14 12:22:55 *	-  
+Sep 14 12:22:55 *	- Website and documentation:  https://libera.chat
+Sep 14 12:22:55 *	- Webchat:                    https://web.libera.chat
+Sep 14 12:22:55 *	- Network policies:           https://libera.chat/policies
+Sep 14 12:22:55 *	- Email:                      support@libera.chat
+Sep 14 12:22:55 *	End of /MOTD command.
+Sep 14 12:22:55 *	Rook_ sets mode +Z on Rook_
+Sep 14 12:22:55 *	Rook_ sets mode +i on Rook_
+Sep 14 12:22:55 -SaslServ-	Last login from: ~Rook__@76.8.169.17.IMCTV.dynamic.mis.net on Sep 14 04:06:59 2021 +0000.
+Sep 14 12:23:40 *	You have been marked as being away
+**** ENDING LOGGING AT Tue Sep 14 12:28:50 2021
+
+**** BEGIN LOGGING AT Tue Sep 14 12:28:50 2021
+
+Sep 14 13:20:59 Perl interface unloaded
+Sep 14 13:20:59 Sysinfo plugin unloaded
+Sep 14 13:20:59 Checksum plugin unloaded
+**** ENDING LOGGING AT Tue Sep 14 13:20:59 2021
+
+**** BEGIN LOGGING AT Tue Sep 14 23:47:39 2021
+
+Sep 14 23:47:39 *	Welcome to the Libera.Chat Internet Relay Chat Network Rook_
+Sep 14 23:47:39 *	Your host is cadmium.libera.chat[103.196.36.38/6697], running version solanum-1.0-dev
+Sep 14 23:47:39 *	This server was created Mon Aug 16 2021 at 15:58:33 UTC
+Sep 14 23:47:39 *	cadmium.libera.chat solanum-1.0-dev DGQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Sep 14 23:47:39 *	WHOX ETRACE KNOCK MONITOR=100 SAFELIST ELIST=CTU CALLERID=g FNC CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz :are supported by this server
+Sep 14 23:47:39 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+Sep 14 23:47:39 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+Sep 14 23:47:39 *	There are 64 users and 46959 invisible on 26 servers
+Sep 14 23:47:39 *	39 :IRC Operators online
+Sep 14 23:47:39 *	6 :unknown connection(s)
+Sep 14 23:47:39 *	20636 :channels formed
+Sep 14 23:47:39 *	I have 2510 clients and 1 servers
+Sep 14 23:47:39 *	2510 4013 :Current local users 2510, max 4013
+Sep 14 23:47:39 *	47023 48310 :Current global users 47023, max 48310
+Sep 14 23:47:39 *	Highest connection count: 4014 (4013 clients) (74638 connections received)
+Sep 14 23:47:39 *	- cadmium.libera.chat Message of the Day - 
+Sep 14 23:47:39 *	- This server kindly provided by Mach Dilemma (www.m-d.net)
+Sep 14 23:47:39 *	- Welcome to Libera Chat, the IRC network for
+Sep 14 23:47:39 *	- free & open-source software and peer directed projects.
+Sep 14 23:47:39 *	-  
+Sep 14 23:47:39 *	- Use of Libera Chat is governed by our network policies.
+Sep 14 23:47:39 *	-  
+Sep 14 23:47:39 *	- Please visit us in #libera for questions and support.
+Sep 14 23:47:39 *	-  
+Sep 14 23:47:39 *	- Website and documentation:  https://libera.chat
+Sep 14 23:47:39 *	- Webchat:                    https://web.libera.chat
+Sep 14 23:47:39 *	- Network policies:           https://libera.chat/policies
+Sep 14 23:47:39 *	- Email:                      support@libera.chat
+Sep 14 23:47:39 *	End of /MOTD command.
+Sep 14 23:47:39 *	Rook_ sets mode +Z on Rook_
+Sep 14 23:47:39 *	Rook_ sets mode +i on Rook_
+Sep 14 23:47:39 -SaslServ-	Last login from: ~Rook__@76.8.169.17.IMCTV.dynamic.mis.net on Sep 14 17:20:46 2021 +0000.
+**** BEGIN LOGGING AT Fri Sep 17 23:04:09 2021
+
+Sep 17 23:04:09 *	Welcome to the Libera.Chat Internet Relay Chat Network Rook_
+Sep 17 23:04:09 *	Your host is copper.libera.chat[130.185.232.126/6697], running version solanum-1.0-dev
+Sep 17 23:04:09 *	This server was created Tue Sep 7 2021 at 04:54:26 UTC
+Sep 17 23:04:09 *	copper.libera.chat solanum-1.0-dev DGQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Sep 17 23:04:09 *	CALLERID=g SAFELIST ELIST=CTU ETRACE KNOCK MONITOR=100 WHOX FNC CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz :are supported by this server
+Sep 17 23:04:09 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+Sep 17 23:04:09 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+Sep 17 23:04:09 *	There are 57 users and 46843 invisible on 26 servers
+Sep 17 23:04:09 *	36 :IRC Operators online
+Sep 17 23:04:09 *	9 :unknown connection(s)
+Sep 17 23:04:09 *	20544 :channels formed
+Sep 17 23:04:09 *	I have 2621 clients and 1 servers
+Sep 17 23:04:09 *	2621 2795 :Current local users 2621, max 2795
+Sep 17 23:04:09 *	46900 48544 :Current global users 46900, max 48544
+Sep 17 23:04:09 *	Highest connection count: 2796 (2795 clients) (49883 connections received)
+Sep 17 23:04:09 *	- copper.libera.chat Message of the Day - 
+Sep 17 23:04:09 *	- Welcome to Libera Chat, the IRC network for
+Sep 17 23:04:09 *	- free & open-source software and peer directed projects.
+Sep 17 23:04:09 *	-  
+Sep 17 23:04:09 *	- Use of Libera Chat is governed by our network policies.
+Sep 17 23:04:09 *	-  
+Sep 17 23:04:09 *	- Please visit us in #libera for questions and support.
+Sep 17 23:04:09 *	-  
+Sep 17 23:04:09 *	- Website and documentation:  https://libera.chat
+Sep 17 23:04:09 *	- Webchat:                    https://web.libera.chat
+Sep 17 23:04:09 *	- Network policies:           https://libera.chat/policies
+Sep 17 23:04:09 *	- Email:                      support@libera.chat
+Sep 17 23:04:09 *	End of /MOTD command.
+Sep 17 23:04:09 *	Rook_ sets mode +Z on Rook_
+Sep 17 23:04:09 *	Rook_ sets mode +i on Rook_
+Sep 17 23:04:09 -SaslServ-	Last login from: ~Rook__@76.8.169.17.imctv.dynamic.mis.net on Sep 15 04:27:13 2021 +0000.
+Sep 17 23:28:32 Perl interface unloaded
+Sep 17 23:28:32 FiSHLiM plugin unloaded
+Sep 17 23:28:32 Sysinfo plugin unloaded
+Sep 17 23:28:32 Checksum plugin unloaded
+**** ENDING LOGGING AT Fri Sep 17 23:28:32 2021
+
+**** BEGIN LOGGING AT Sun Sep 19 20:46:22 2021
+
+Sep 19 20:46:22 *	Welcome to the Libera.Chat Internet Relay Chat Network Rook_
+Sep 19 20:46:22 *	Your host is calcium.libera.chat[64.86.243.186/6697], running version solanum-1.0-dev
+Sep 19 20:46:22 *	This server was created Mon Aug 30 2021 at 04:05:23 UTC
+Sep 19 20:46:22 *	calcium.libera.chat solanum-1.0-dev DGQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Sep 19 20:46:22 *	ETRACE SAFELIST ELIST=CTU MONITOR=100 CALLERID=g FNC WHOX KNOCK CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz :are supported by this server
+Sep 19 20:46:22 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+Sep 19 20:46:22 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+Sep 19 20:46:22 *	There are 59 users and 47230 invisible on 26 servers
+Sep 19 20:46:22 *	35 :IRC Operators online
+Sep 19 20:46:22 *	12 :unknown connection(s)
+Sep 19 20:46:22 *	20621 :channels formed
+Sep 19 20:46:22 *	I have 2714 clients and 1 servers
+Sep 19 20:46:22 *	2714 4397 :Current local users 2714, max 4397
+Sep 19 20:46:22 *	47289 48544 :Current global users 47289, max 48544
+Sep 19 20:46:22 *	Highest connection count: 4398 (4397 clients) (63169 connections received)
+Sep 19 20:46:22 *	- calcium.libera.chat Message of the Day - 
+Sep 19 20:46:22 *	- Welcome to Libera Chat, the IRC network for
+Sep 19 20:46:22 *	- free & open-source software and peer directed projects.
+Sep 19 20:46:22 *	-  
+Sep 19 20:46:22 *	- Use of Libera Chat is governed by our network policies.
+Sep 19 20:46:22 *	-  
+Sep 19 20:46:22 *	- Please visit us in #libera for questions and support.
+Sep 19 20:46:22 *	-  
+Sep 19 20:46:22 *	- Website and documentation:  https://libera.chat
+Sep 19 20:46:22 *	- Webchat:                    https://web.libera.chat
+Sep 19 20:46:22 *	- Network policies:           https://libera.chat/policies
+Sep 19 20:46:22 *	- Email:                      support@libera.chat
+Sep 19 20:46:22 *	End of /MOTD command.
+Sep 19 20:46:22 *	Rook_ sets mode +Z on Rook_
+Sep 19 20:46:22 *	Rook_ sets mode +i on Rook_
+Sep 19 20:46:22 -SaslServ-	Last login from: ~Rook__@76.8.169.17.IMCTV.dynamic.mis.net on Sep 20 00:38:23 2021 +0000.
+Sep 19 20:46:50 *	Rook__ :Nickname is already in use.
+Sep 19 20:46:56 *	[Rook__] (~rookmatri@2001:470:69fc:105::838): @rook.:matrix.org
+Sep 19 20:46:56 *	[Rook__] tungsten.libera.chat :Umeå, SE
+Sep 19 20:46:56 *	[Rook__] is using a secure connection
+Sep 19 20:46:56 *	[Rook__] 2001:470:69fc:105::838 :actually using host
+Sep 19 20:46:56 *	[Rook__] End of WHOIS list.
+Sep 19 20:48:30 *	Rook__ :Nickname is already in use.
+Sep 19 20:48:32 *	Rook__ :Nickname is already in use.
+Sep 19 20:48:33 *	Rook__ :Nickname is already in use.
+Sep 19 20:48:33 *	Rook__ :Nickname is already in use.
+Sep 19 20:48:34 *	Rook__ :Nickname is already in use.
+Sep 19 20:48:34 *	Rook__ :Nickname is already in use.
+Sep 19 20:48:34 *	Rook__ :Nickname is already in use.
+Sep 19 20:48:35 *	Rook__ :Nickname is already in use.
+Sep 19 20:49:58 *	Rook__ :Nickname is already in use.
+Sep 19 20:53:13 >NickServ<	REGAIN Rook__ 28BigLatinCow28
+Sep 19 20:53:13 -NickServ-	Rook__ has been regained.
+Sep 19 20:53:13 *	You are now known as Rook__
+Sep 19 20:53:15 No channel joined. Try /join #<channel>
+**** BEGIN LOGGING AT Wed Apr  6 16:33:02 2022
+
+Apr 06 16:33:02 *	Welcome to the Libera.Chat Internet Relay Chat Network Rook__
+Apr 06 16:33:02 *	Your host is copper.libera.chat[130.185.232.126/6697], running version solanum-1.0-dev
+Apr 06 16:33:02 *	This server was created Thu Jan 27 2022 at 17:57:21 UTC
+Apr 06 16:33:02 *	copper.libera.chat solanum-1.0-dev DGQRSZaghilopsuwz CFILMPQSTbcefgijklmnopqrstuvz bkloveqjfI
+Apr 06 16:33:02 *	ETRACE FNC WHOX KNOCK CALLERID=g MONITOR=100 SAFELIST ELIST=CMNTU CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQSTcgimnprstuz :are supported by this server
+Apr 06 16:33:02 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+Apr 06 16:33:02 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+Apr 06 16:33:02 *	There are 68 users and 43362 invisible on 28 servers
+Apr 06 16:33:02 *	41 :IRC Operators online
+Apr 06 16:33:02 *	21 :unknown connection(s)
+Apr 06 16:33:02 *	22075 :channels formed
+Apr 06 16:33:02 *	I have 3003 clients and 1 servers
+Apr 06 16:33:02 *	3003 3230 :Current local users 3003, max 3230
+Apr 06 16:33:02 *	43430 51588 :Current global users 43430, max 51588
+Apr 06 16:33:02 *	Highest connection count: 3231 (3230 clients) (192488 connections received)
+Apr 06 16:33:02 *	- copper.libera.chat Message of the Day - 
+Apr 06 16:33:02 *	- Welcome to Libera Chat, the IRC network for
+Apr 06 16:33:02 *	- free & open-source software and peer directed projects.
+Apr 06 16:33:02 *	-  
+Apr 06 16:33:02 *	- Use of Libera Chat is governed by our network policies.
+Apr 06 16:33:02 *	-  
+Apr 06 16:33:03 *	- To reduce network abuses we perform open proxy checks
+Apr 06 16:33:03 *	- on hosts at connection time.
+Apr 06 16:33:03 *	-  
+Apr 06 16:33:03 *	- Please visit us in #libera for questions and support.
+Apr 06 16:33:03 *	-  
+Apr 06 16:33:03 *	- Website and documentation:  https://libera.chat
+Apr 06 16:33:03 *	- Webchat:                    https://web.libera.chat
+Apr 06 16:33:03 *	- Network policies:           https://libera.chat/policies
+Apr 06 16:33:03 *	- Email:                      support@libera.chat
+Apr 06 16:33:03 *	End of /MOTD command.
+Apr 06 16:33:03 *	Rook__ sets mode +Z on Rook__
+Apr 06 16:33:03 *	Rook__ sets mode +i on Rook__
+Apr 06 16:33:03 *	Rook__ sets mode +w on Rook__
+Apr 06 16:33:03 -SaslServ-	Last login from: ~rookmatri@2001:470:69fc:105::838 on Mar 28 07:19:48 2022 +0000.
+Apr 06 16:34:54 *	No ping reply for 89 seconds, disconnecting.
+Apr 06 16:34:54 *	Disconnected ()
+**** ENDING LOGGING AT Wed Apr  6 16:35:01 2022
+
+**** BEGIN LOGGING AT Wed Apr  6 16:35:01 2022
+
+Apr 06 16:35:04 *	Looking up irc.libera.chat
+Apr 06 16:35:04 *	Connecting to irc.libera.chat (204.225.96.123:6697)
+Apr 06 16:35:05 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 06 16:35:05 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 06 16:35:05 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 06 16:35:05 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 06 16:35:05 *	* Subject: /CN=strontium.libera.chat
+Apr 06 16:35:05 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 06 16:35:05 *	* Certification info:
+Apr 06 16:35:05 *	  Subject:
+Apr 06 16:35:05 *	    CN=strontium.libera.chat
+Apr 06 16:35:05 *	  Issuer:
+Apr 06 16:35:05 *	    C=US
+Apr 06 16:35:05 *	    O=Let's Encrypt
+Apr 06 16:35:05 *	    CN=R3
+Apr 06 16:35:05 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 06 16:35:05 *	  Sign algorithm sha256WithRSAEncryption
+Apr 06 16:35:05 *	  Valid since Mar  7 05:02:15 2022 GM to Jun  5 05:02:14 2022 GM
+Apr 06 16:35:05 *	* Cipher info:
+Apr 06 16:35:05 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 06 16:35:05 *	Connected. Now logging in.
+Apr 06 16:35:05 *	*** Checking Ident
+Apr 06 16:35:05 *	*** Looking up your hostname...
+Apr 06 16:35:05 *	*** No Ident response
+Apr 06 16:35:05 *	*** Found your hostname: 76.8.169.17.IMCTV.dynamic.mis.net
+Apr 06 16:35:05 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Apr 06 16:35:05 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl cap-notify 
+Apr 06 16:35:05 *	Rook__ is already in use. Retrying with Rook_...
+Apr 06 16:35:05 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl cap-notify
+Apr 06 16:35:06 *	Authenticating via SASL as Rook__ (PLAIN)
+Apr 06 16:35:07 *	You are now logged in as Rook__
+Apr 06 16:35:07 *	SASL authentication successful
+**** ENDING LOGGING AT Wed Apr  6 16:35:08 2022
+
+**** BEGIN LOGGING AT Wed Apr  6 16:35:08 2022
+
+Apr 06 16:35:08 *	Welcome to the Libera.Chat Internet Relay Chat Network Rook_
+Apr 06 16:35:08 *	Your host is strontium.libera.chat[204.225.96.123/6697], running version solanum-1.0-dev
+Apr 06 16:35:08 *	This server was created Mon Mar 28 2022 at 03:46:49 UTC
+Apr 06 16:35:08 *	strontium.libera.chat solanum-1.0-dev DGQRSZaghilopsuwz CFILMPQSTbcefgijklmnopqrstuvz bkloveqjfI
+Apr 06 16:35:08 *	MONITOR=100 CALLERID=g WHOX FNC ETRACE KNOCK SAFELIST ELIST=CMNTU CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQSTcgimnprstuz :are supported by this server
+Apr 06 16:35:08 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+Apr 06 16:35:08 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+Apr 06 16:35:08 *	There are 68 users and 43367 invisible on 28 servers
+Apr 06 16:35:08 *	41 :IRC Operators online
+Apr 06 16:35:08 *	3 :unknown connection(s)
+Apr 06 16:35:08 *	22072 :channels formed
+Apr 06 16:35:08 *	I have 2660 clients and 1 servers
+Apr 06 16:35:08 *	2660 2836 :Current local users 2660, max 2836
+Apr 06 16:35:08 *	43435 46405 :Current global users 43435, max 46405
+Apr 06 16:35:08 *	Highest connection count: 2837 (2836 clients) (43878 connections received)
+Apr 06 16:35:08 *	- strontium.libera.chat Message of the Day - 
+Apr 06 16:35:08 *	- Welcome to Libera Chat, the IRC network for
+Apr 06 16:35:08 *	- free & open-source software and peer directed projects.
+Apr 06 16:35:08 *	-  
+Apr 06 16:35:08 *	- Use of Libera Chat is governed by our network policies.
+Apr 06 16:35:08 *	-  
+Apr 06 16:35:08 *	- To reduce network abuses we perform open proxy checks
+Apr 06 16:35:08 *	- on hosts at connection time.
+Apr 06 16:35:08 *	-  
+Apr 06 16:35:08 *	- Please visit us in #libera for questions and support.
+Apr 06 16:35:08 *	-  
+Apr 06 16:35:08 *	- Website and documentation:  https://libera.chat
+Apr 06 16:35:08 *	- Webchat:                    https://web.libera.chat
+Apr 06 16:35:08 *	- Network policies:           https://libera.chat/policies
+Apr 06 16:35:08 *	- Email:                      support@libera.chat
+Apr 06 16:35:08 *	End of /MOTD command.
+Apr 06 16:35:08 *	Rook_ sets mode +Z on Rook_
+Apr 06 16:35:08 *	Rook_ sets mode +i on Rook_
+Apr 06 16:35:08 *	Rook_ sets mode +w on Rook_
+Apr 06 16:35:08 -SaslServ-	Last login from: ~Rook__@74.214.179.172 on Apr 06 20:33:02 2022 +0000.
+**** ENDING LOGGING AT Wed Apr  6 16:35:18 2022
+
+**** BEGIN LOGGING AT Wed Apr  6 16:35:18 2022
+
+Apr 06 16:47:57 Sysinfo plugin unloaded
+Apr 06 16:47:57 Perl interface unloaded
+Apr 06 16:47:57 Checksum plugin unloaded
+**** ENDING LOGGING AT Wed Apr  6 16:47:57 2022
+
+**** BEGIN LOGGING AT Fri May 13 17:26:53 2022
+
+May 13 17:26:53 *	Welcome to the Libera.Chat Internet Relay Chat Network Rook__
+May 13 17:26:53 *	Your host is erbium.libera.chat[82.96.96.60/6697], running version solanum-1.0-dev
+May 13 17:26:53 *	This server was created Mon Mar 28 2022 at 03:47:59 UTC
+May 13 17:26:53 *	erbium.libera.chat solanum-1.0-dev DGQRSZaghilopsuwz CFILMPQSTbcefgijklmnopqrstuvz bkloveqjfI
+May 13 17:26:53 *	SAFELIST ELIST=CMNTU MONITOR=100 FNC WHOX ETRACE KNOCK CALLERID=g CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQSTcgimnprstuz :are supported by this server
+May 13 17:26:53 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+May 13 17:26:53 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+May 13 17:26:53 *	There are 72 users and 41904 invisible on 28 servers
+May 13 17:26:53 *	41 :IRC Operators online
+May 13 17:26:53 *	16 :unknown connection(s)
+May 13 17:26:53 *	22409 :channels formed
+May 13 17:26:53 *	I have 1630 clients and 1 servers
+May 13 17:26:53 *	1630 3480 :Current local users 1630, max 3480
+May 13 17:26:53 *	41976 48018 :Current global users 41976, max 48018
+May 13 17:26:53 *	Highest connection count: 3481 (3480 clients) (77266 connections received)
+May 13 17:26:53 *	- erbium.libera.chat Message of the Day - 
+May 13 17:26:53 *	- Welcome to Libera Chat, the IRC network for
+May 13 17:26:53 *	- free & open-source software and peer directed projects.
+May 13 17:26:53 *	-  
+May 13 17:26:53 *	- Use of Libera Chat is governed by our network policies.
+May 13 17:26:53 *	-  
+May 13 17:26:53 *	- To reduce network abuses we perform open proxy checks
+May 13 17:26:53 *	- on hosts at connection time.
+May 13 17:26:53 *	-  
+May 13 17:26:53 *	- Please visit us in #libera for questions and support.
+May 13 17:26:53 *	-  
+May 13 17:26:53 *	- Website and documentation:  https://libera.chat
+May 13 17:26:53 *	- Webchat:                    https://web.libera.chat
+May 13 17:26:53 *	- Network policies:           https://libera.chat/policies
+May 13 17:26:53 *	- Email:                      support@libera.chat
+May 13 17:26:53 *	End of /MOTD command.
+May 13 17:26:53 *	Rook__ sets mode +Z on Rook__
+May 13 17:26:53 *	Rook__ sets mode +i on Rook__
+May 13 17:26:53 *	Rook__ sets mode +w on Rook__
+May 13 17:26:53 -SaslServ-	Last login from: ~Rook__@aw-200-151-68-199.appalachianwireless.com on Apr 07 15:04:30 2022 +0000.
+May 13 17:27:14 Sysinfo plugin unloaded
+May 13 17:27:14 Perl interface unloaded
+May 13 17:27:14 Checksum plugin unloaded
+**** ENDING LOGGING AT Fri May 13 17:27:14 2022
+
+**** BEGIN LOGGING AT Sun May 22 22:43:15 2022
+
+May 22 22:43:15 *	Welcome to the Libera.Chat Internet Relay Chat Network Rook__
+May 22 22:43:15 *	Your host is strontium.libera.chat[204.225.96.123/6697], running version solanum-1.0-dev
+May 22 22:43:15 *	This server was created Mon Mar 28 2022 at 03:46:49 UTC
+May 22 22:43:15 *	strontium.libera.chat solanum-1.0-dev DGQRSZaghilopsuwz CFILMPQSTbcefgijklmnopqrstuvz bkloveqjfI
+May 22 22:43:15 *	MONITOR=100 CALLERID=g WHOX FNC ETRACE KNOCK SAFELIST ELIST=CMNTU CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQSTcgimnprstuz :are supported by this server
+May 22 22:43:15 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+May 22 22:43:15 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+May 22 22:43:15 *	There are 74 users and 42860 invisible on 28 servers
+May 22 22:43:15 *	42 :IRC Operators online
+May 22 22:43:15 *	6 :unknown connection(s)
+May 22 22:43:15 *	22351 :channels formed
+May 22 22:43:15 *	I have 2225 clients and 1 servers
+May 22 22:43:15 *	2225 3218 :Current local users 2225, max 3218
+May 22 22:43:15 *	42934 48018 :Current global users 42934, max 48018
+May 22 22:43:15 *	Highest connection count: 3219 (3218 clients) (184134 connections received)
+May 22 22:43:15 *	- strontium.libera.chat Message of the Day - 
+May 22 22:43:15 *	- Welcome to Libera Chat, the IRC network for
+May 22 22:43:15 *	- free & open-source software and peer directed projects.
+May 22 22:43:15 *	-  
+May 22 22:43:15 *	- Use of Libera Chat is governed by our network policies.
+May 22 22:43:15 *	-  
+May 22 22:43:15 *	- To reduce network abuses we perform open proxy checks
+May 22 22:43:15 *	- on hosts at connection time.
+May 22 22:43:15 *	-  
+May 22 22:43:15 *	- Please visit us in #libera for questions and support.
+May 22 22:43:15 *	-  
+May 22 22:43:15 *	- Website and documentation:  https://libera.chat
+May 22 22:43:15 *	- Webchat:                    https://web.libera.chat
+May 22 22:43:15 *	- Network policies:           https://libera.chat/policies
+May 22 22:43:15 *	- Email:                      support@libera.chat
+May 22 22:43:15 *	End of /MOTD command.
+May 22 22:43:15 *	Rook__ sets mode +Z on Rook__
+May 22 22:43:15 *	Rook__ sets mode +i on Rook__
+May 22 22:43:15 *	Rook__ sets mode +w on Rook__
+May 22 22:43:15 -SaslServ-	Last login from: ~justin@76.8.169.17.IMCTV.dynamic.mis.net on May 23 02:42:55 2022 +0000.
+May 22 22:43:38 *	[Rook__] (~Rook__@user/Rook/x-8391761): Rook
+May 22 22:43:38 *	[Rook__] strontium.libera.chat :North Carolina, US
+May 22 22:43:38 *	[Rook__] is using a secure connection [TLSv1.3, TLS_AES_256_GCM_SHA384]
+May 22 22:43:38 *	[Rook__] is connecting from *@76.8.169.17.IMCTV.dynamic.mis.net 76.8.169.17
+May 22 22:43:38 *	[Rook__] idle 00:00:22, signon: Sun May 22 22:43:15
+May 22 22:43:38 *	[Rook__] is logged in as Rook__
+May 22 22:43:38 *	[Rook__] End of WHOIS list.
+May 22 22:43:53 *	Cannot join #libera-cloak (You are banned).
+May 22 22:44:22 Sysinfo plugin unloaded
+May 22 22:44:22 FiSHLiM plugin unloaded
+May 22 22:44:22 Perl interface unloaded
+May 22 22:44:22 Checksum plugin unloaded
+**** ENDING LOGGING AT Sun May 22 22:44:22 2022
+

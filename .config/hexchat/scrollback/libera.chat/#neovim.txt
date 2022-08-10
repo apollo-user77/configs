@@ -1,0 +1,11 @@
+T 1631678233 19*	Now talking on 22#neovim
+T 1631678233 22*	Topic for 22#neovim is: neovim is a great text editor | https://neovim.io | https://github.com/sponsors/neovim | bridged via matrix (#neovim:matrix.org, https://gitter.im/neovim/neovim)
+T 1631678233 22*	Topic for 22#neovim set by 26bfredl (24Fri Jun 18 09:28:51 2021)
+T 1631678285 24*	nahtjona has quit (Quit: connection reset by purr)
+T 1631678423 18<Shadman[m]18>	The cacheing functionality is implemented in base component class . The other changes are just for those components to exit early . I'll explore the idea of caching from outside but it might be more complicated in lualines context as a ton of stuff in lualine is component oriented .
+T 1631679084 24*	wyclif has quit (Ping timeout: 252 seconds)
+T 1631679160 23*	wyclif (~wyclif@user/wyclif23) has joined
+T 1631679296 24*	wpeace has quit (Quit: WeeChat 3.2)
+T 1631679515 23*	wpeace (~wpeace@2607:fb90:ce1e:e882:d533:a274:7535:caa523) has joined
+T 1631679776 24*	wyclif has quit (Ping timeout: 268 seconds)
+T 1631679795 23*	wyclif (~wyclif@user/wyclif23) has joined

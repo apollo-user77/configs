@@ -1,0 +1,13 @@
+source ~/.config/nvim-new/plugs.vim
+source ~/.config/nvim-new/settings.vim
+source ~/.config/nvim-new/keybind.vim
+"source ~/.config/nvim-new/coc.vim
+source ~/.config/nvim-new/lsp/nvim-cmp.lua
+source ~/.config/nvim-new/lsp/treesitter.lua
+source ~/.config/nvim-new/startify.vim
+source ~/.config/nvim-new/airline.vim
+"source ~/.config/nvim-new/lualine.lua
+"source ~/.config/nvim-new/web-devicons.lua
+source ~/.config/nvim-new/blankline.lua
+source ~/.config/nvim-new/autopairs.lua
+source ~/.config/nvim-new/ctrlspace.vim

@@ -1,0 +1,58 @@
+[start] 18:39:54 INFO: syncthing v1.12.1-ds1 "Fermium Flea" (go1.15.9 linux-amd64) debian@debian 2021-07-23 20:27:51 UTC
+[start] 18:39:54 INFO: Generating ECDSA key and certificate for syncthing...
+[start] 18:39:54 INFO: Default folder created and/or linked to new config
+[start] 18:39:54 INFO: Default config saved. Edit /home/justin/.config/syncthing/config.xml to taste (with Syncthing stopped) or use the GUI
+[start] 18:39:54 INFO: Archiving a copy of old config file format at: /home/justin/.config/syncthing/config.xml.v0
+[RNPBW] 18:39:54 INFO: My ID: RNPBW2E-YBQ6T67-YFHM2TQ-QYUGUSL-5OCG6MG-ZJJFB7J-KSJSRGC-T3Z5RQ7
+[RNPBW] 18:39:55 INFO: Single thread SHA256 performance is 216 MB/s using minio/sha256-simd (156 MB/s using crypto/sha256).
+[RNPBW] 18:39:55 INFO: Hashing performance is 191.76 MB/s
+[RNPBW] 18:39:55 INFO: Running database migration 1...
+[RNPBW] 18:39:55 INFO: Running database migration 2...
+[RNPBW] 18:39:55 INFO: Running database migration 3...
+[RNPBW] 18:39:55 INFO: Running database migration 5...
+[RNPBW] 18:39:55 INFO: Running database migration 6...
+[RNPBW] 18:39:55 INFO: Running database migration 7...
+[RNPBW] 18:39:55 INFO: Running database migration 9...
+[RNPBW] 18:39:55 INFO: Running database migration 10...
+[RNPBW] 18:39:55 INFO: Running database migration 11...
+[RNPBW] 18:39:55 INFO: Running database migration 13...
+[RNPBW] 18:39:55 INFO: Running database migration 14...
+[RNPBW] 18:39:55 INFO: Running database migration 15...
+[RNPBW] 18:39:55 INFO: Compacting database after migration...
+[RNPBW] 18:39:55 INFO: Starting deadlock detector with 20m0s timeout
+[RNPBW] 18:39:55 INFO: Overall send rate is unlimited, receive rate is unlimited
+[RNPBW] 18:39:55 INFO: No stored folder metadata for "default"; recalculating
+[RNPBW] 18:39:55 INFO: Loading HTTPS certificate: open /home/justin/.config/syncthing/https-cert.pem: no such file or directory
+[RNPBW] 18:39:55 INFO: Creating new HTTPS certificate
+[RNPBW] 18:39:55 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[RNPBW] 18:39:55 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[RNPBW] 18:39:55 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[RNPBW] 18:39:55 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[RNPBW] 18:39:55 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+2022/02/02 18:39:55 connection doesn't allow setting of receive buffer size. See https://github.com/lucas-clemente/quic-go/wiki/UDP-Receive-Buffer-Size for details.
+[RNPBW] 18:39:55 INFO: QUIC listener ([::]:22000) starting
+[RNPBW] 18:39:55 INFO: TCP listener ([::]:22000) starting
+[RNPBW] 18:39:55 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[RNPBW] 18:39:55 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[RNPBW] 18:39:55 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[RNPBW] 18:39:56 INFO: GUI and API listening on 127.0.0.1:8384
+[RNPBW] 18:39:56 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[RNPBW] 18:39:56 INFO: My name is "debpad"
+[RNPBW] 18:40:15 INFO: quic://0.0.0.0:22000 detected NAT type: Port restricted NAT
+[RNPBW] 18:40:15 INFO: quic://0.0.0.0:22000 resolved external address quic://76.8.169.17:22000 (via stun.syncthing.net:3478)
+[RNPBW] 18:40:26 INFO: UPnP parse: Get "http://192.168.222.1:5000/Public_UPNP_gatedesc.xml": dial tcp 192.168.222.1:5000: i/o timeout
+[RNPBW] 18:40:26 INFO: New NAT port mapping: external TCP address 76.8.169.17:49796 to local address 0.0.0.0:22000.
+[RNPBW] 18:40:26 INFO: New NAT port mapping: external TCP address 76.8.169.17:40254 to local address 0.0.0.0:22000.
+[RNPBW] 18:40:26 INFO: Detected 2 NAT services
+[RNPBW] 18:41:04 INFO: Joined relay relay://136.56.112.99:22067
+[RNPBW] 19:10:56 INFO: UPnP parse: Get "http://192.168.222.1:5000/Public_UPNP_gatedesc.xml": dial tcp 192.168.222.1:5000: i/o timeout
+[RNPBW] 19:41:27 INFO: UPnP parse: Get "http://192.168.222.1:5000/Public_UPNP_gatedesc.xml": dial tcp 192.168.222.1:5000: i/o timeout
+[RNPBW] 19:41:27 INFO: UPnP parse: dial tcp 10.0.0.1:33317: i/o timeout
+[RNPBW] 20:11:57 INFO: UPnP parse: Get "http://192.168.222.1:5000/Public_UPNP_gatedesc.xml": dial tcp 192.168.222.1:5000: i/o timeout
+[RNPBW] 20:42:28 INFO: UPnP parse: Get "http://192.168.222.1:5000/Public_UPNP_gatedesc.xml": dial tcp 192.168.222.1:5000: i/o timeout
+[RNPBW] 20:42:28 INFO: UPnP parse: dial tcp 10.0.0.1:33317: i/o timeout
+[RNPBW] 20:48:16 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[RNPBW] 20:48:16 INFO: Disconnected from relay relay://136.56.112.99:22067
+[RNPBW] 20:48:16 INFO: QUIC listener ([::]:22000) shutting down
+[RNPBW] 20:48:17 INFO: TCP listener ([::]:22000) shutting down
+[RNPBW] 20:48:17 INFO: Exiting

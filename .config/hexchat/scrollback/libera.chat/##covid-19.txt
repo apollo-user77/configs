@@ -1,0 +1,9 @@
+T 1631590328 19*	Now talking on 22##covid-19
+T 1631590328 22*	Topic for 22##covid-19 is: COVID-19 (SARS-CoV-2) coronavirus pandemic, bridged with #covid-19:matrix.org | "%cases <region or country>" for cases (best use Brainstorm in PM) | Resources: https://github.com/ljl-covid/links | Zotero: https://is.gd/7UgsH2 | Logs: https://is.gd/xpld3l | Too many bots/news? Try ##coronavirus | Too few? Join ##covid-ticker
+T 1631590328 22*	Topic for 22##covid-19 set by 26LjL (24Fri Sep 10 13:34:47 2021)
+T 1631590328 -18ChanServ-	[##covid-19] This channel is publicly logged at http://reisenweber.net/irclogs/freenode/__covid-19/ so by chatting you agree that anything you say is released into the public domain. No discussion here should be construed as medical advice. Be sensible and read https://github.com/ljl-covid/links/blob/master/COVID-19-chat.md for some guidance.
+T 1631591223 24*	r3m has quit (Quit: WeeChat 3.3-dev)
+T 1631591973 18<grys18>	LjL: and afaik the vaccine recipients aren't being made aware of where their data, and what data specifically, will go
+T 1631591995 18<grys18>	LjL: such as into the intellectual property tool of that particular bill and gates foundation
+T 1631592233 24*	jbwncster has quit (Quit: Connection closed for inactivity)
+T 1631592294 24*	darsie has quit (Ping timeout: 268 seconds)

@@ -1,0 +1,11 @@
+[2022-02-25 23:14:48.763] [main] [info] update#setState idle
+[2022-02-25 23:14:48.845] [main] [info] ExtensionHostStarterWorker created
+[2022-02-25 23:14:50.678] [main] [info] Starting extension host with pid 5558 (fork() took 18 ms).
+[2022-02-25 23:14:50.682] [main] [info] ExtensionHostStarterWorker.start() took 25 ms.
+[2022-02-25 23:15:18.767] [main] [info] update#setState checking for updates
+[2022-02-25 23:15:19.002] [main] [info] update#setState idle
+[2022-02-25 23:18:04.878] [main] [info] Extension host with pid 5558 exited with code: 0, signal: null.
+[2022-02-25 23:18:06.605] [main] [info] Starting extension host with pid 5766 (fork() took 6 ms).
+[2022-02-25 23:18:06.606] [main] [info] ExtensionHostStarterWorker.start() took 8 ms.
+[2022-02-25 23:18:43.800] [main] [info] Waiting for extension host with pid 5766 to exit.
+[2022-02-25 23:18:43.827] [main] [info] Extension host with pid 5766 exited with code: 0, signal: null.

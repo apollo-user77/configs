@@ -1,0 +1,22 @@
+**** BEGIN LOGGING AT Mon Sep 13 22:45:55 2021
+
+Sep 13 22:45:55 *	Connecting to irc.libera.chat (51.161.82.214:6697)
+Sep 13 22:45:55 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Sep 13 22:45:55 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Sep 13 22:45:55 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Sep 13 22:45:55 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Sep 13 22:45:55 *	* Subject: /CN=molybdenum.libera.chat
+Sep 13 22:45:55 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Sep 13 22:45:55 *	* Certification info:
+Sep 13 22:45:55 *	  Subject:
+Sep 13 22:45:55 *	    CN=molybdenum.libera.chat
+Sep 13 22:45:55 *	  Issuer:
+Sep 13 22:45:55 *	    C=US
+Sep 13 22:45:55 *	    O=Let's Encrypt
+Sep 13 22:45:55 *	    CN=R3
+Sep 13 22:45:55 *	  Public key algorithm: rsaEncryption (4096 bits)
+Sep 13 22:45:55 *	  Sign algorithm sha256WithRSAEncryption
+Sep 13 22:45:55 *	  Valid since Aug  2 05:04:53 2021 GM to Oct 31 05:04:51 2021 GM
+Sep 13 22:45:55 *	* Cipher info:
+Sep 13 22:45:55 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Sep 13 22:45:55 *	Connected. Now logging in.

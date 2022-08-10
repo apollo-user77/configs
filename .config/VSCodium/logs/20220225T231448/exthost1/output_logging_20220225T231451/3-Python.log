@@ -1,0 +1,9 @@
+Telemetry level is off
+Experiments are disabled, only manually opted experiments are active.
+> conda info --json
+> /bin/python ~/.vscode-oss/extensions/ms-python.python-2022.0.1814523869/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.0.1814523869/pythonFiles/interpreterInfo.py
+> /bin/python3 ~/.vscode-oss/extensions/ms-python.python-2022.0.1814523869/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.0.1814523869/pythonFiles/interpreterInfo.py
+> /usr/bin/python ~/.vscode-oss/extensions/ms-python.python-2022.0.1814523869/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.0.1814523869/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ~/.vscode-oss/extensions/ms-python.python-2022.0.1814523869/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.0.1814523869/pythonFiles/interpreterInfo.py
+Python interpreter path: /bin/python3
+Starting Jedi language server.

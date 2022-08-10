@@ -1,0 +1,34 @@
+[2022-02-25 23:14:51.653] [sharedprocess] [info] Starting worker process with pid 5603 (type: fileWatcher, window: 1).
+[2022-02-25 23:16:40.255] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-02-25 23:16:40.403] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-02-25 23:16:40.686] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-02-25 23:16:41.347] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-02-25 23:16:45.223] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/justin/.config/VSCodium/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.1.1301856528
+[2022-02-25 23:16:45.950] [sharedprocess] [info] Extracted extension to /home/justin/.vscode-oss/extensions/.8a1247b0-ceb2-4c33-b797-d517228e0ae9: ms-toolsai.jupyter
+[2022-02-25 23:16:45.972] [sharedprocess] [info] Renamed to /home/justin/.vscode-oss/extensions/ms-toolsai.jupyter-2022.1.1301856528
+[2022-02-25 23:16:45.976] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-02-25 23:16:49.659] [sharedprocess] [info] Downloaded extension: ms-python.python /home/justin/.config/VSCodium/CachedExtensionVSIXs/ms-python.python-2022.0.1814523869
+[2022-02-25 23:16:49.683] [sharedprocess] [info] Getting Manifest... asvetliakov.vscode-neovim
+[2022-02-25 23:16:49.814] [sharedprocess] [info] Installing extension: asvetliakov.vscode-neovim
+[2022-02-25 23:16:51.074] [sharedprocess] [info] Downloaded extension: asvetliakov.vscode-neovim /home/justin/.config/VSCodium/CachedExtensionVSIXs/asvetliakov.vscode-neovim-0.0.83
+[2022-02-25 23:16:51.172] [sharedprocess] [info] Extracted extension to /home/justin/.vscode-oss/extensions/.e657598c-205e-4960-89e5-41f12c939102: asvetliakov.vscode-neovim
+[2022-02-25 23:16:51.188] [sharedprocess] [info] Renamed to /home/justin/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.83
+[2022-02-25 23:16:51.190] [sharedprocess] [info] Extracting completed. asvetliakov.vscode-neovim
+[2022-02-25 23:16:51.192] [sharedprocess] [info] Extension installed successfully: asvetliakov.vscode-neovim
+[2022-02-25 23:16:52.441] [sharedprocess] [info] Extracted extension to /home/justin/.vscode-oss/extensions/.6947a1df-1909-46aa-b1cd-a674a8fa57bd: ms-python.python
+[2022-02-25 23:16:52.458] [sharedprocess] [info] Renamed to /home/justin/.vscode-oss/extensions/ms-python.python-2022.0.1814523869
+[2022-02-25 23:16:52.461] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-02-25 23:16:52.465] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-02-25 23:16:52.465] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-02-25 23:17:01.817] [sharedprocess] [info] Getting Manifest... vscodevim.vim
+[2022-02-25 23:17:01.958] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2022-02-25 23:17:03.162] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/justin/.config/VSCodium/CachedExtensionVSIXs/vscodevim.vim-1.22.2
+[2022-02-25 23:17:03.299] [sharedprocess] [info] Extracted extension to /home/justin/.vscode-oss/extensions/.cfe19b83-057c-4151-a5c8-f46af64c0d3f: vscodevim.vim
+[2022-02-25 23:17:03.310] [sharedprocess] [info] Renamed to /home/justin/.vscode-oss/extensions/vscodevim.vim-1.22.2
+[2022-02-25 23:17:03.312] [sharedprocess] [info] Extracting completed. vscodevim.vim
+[2022-02-25 23:17:03.313] [sharedprocess] [info] Extension installed successfully: vscodevim.vim
+[2022-02-25 23:17:05.285] [sharedprocess] [info] Uninstalling extension: asvetliakov.vscode-neovim
+[2022-02-25 23:17:05.378] [sharedprocess] [info] Detected extension removed from another source asvetliakov.vscode-neovim
+[2022-02-25 23:17:05.722] [sharedprocess] [info] Successfully uninstalled extension: asvetliakov.vscode-neovim
+[2022-02-25 23:18:04.865] [sharedprocess] [info] Worker process with pid 5603 terminated normally (type: fileWatcher, window: 1).
+[2022-02-25 23:18:06.624] [sharedprocess] [info] Starting worker process with pid 5767 (type: fileWatcher, window: 1).
